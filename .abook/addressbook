@@ -1,0 +1,19 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name=jon burga
+email=jon.burga@outlook.com
+
+[1]
+name=Peter Meier
+email=p.meier@doree.li
+
+[2]
+name=Eszter Oszlanczi
+email=oszi.eszti18@gmail.com
+

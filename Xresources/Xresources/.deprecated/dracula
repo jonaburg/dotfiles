@@ -1,0 +1,67 @@
+! special
+!pink
+!*.foreground:   #ffdef2
+!*.foreground:   #b6e3b6
+*.foreground:       #a1e2ad
+*.background:   #212121
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #101010
+*.color8:       #434758
+
+! red
+*.color1:       #E2A1b6
+*.color9:       #ff8b92
+
+! green
+*.color2:       #a7ee3f
+*.color10:      #c5ef81
+
+! yellow
+*.color3:       #7bea7b
+!*.color11:      #04ffbb
+*.color11:      #E2ADA1
+
+! blue
+*.color4:       #82aaff
+*.color12:      #9cc4ff
+
+! magenta
+*.color5:       #c792ea
+*.color13:      #e1acff
+
+! cyan
+*.color6:       #a1b6e2
+*.color14:      #ffa3a3
+#*.color6:       #89ddff
+#*.color14:      #a3f7ff
+
+! white
+*.color7:       #d0d0d0
+*.color15:      #ffffff
+
+
+
+*.font: Iosevka-11;
+!*.font: unifont-13.5;
+
+
+!*.alpha: 0.55
+*.alpha: 0.7
+!*.alpha:1
+!*.alpha: 0.85
+!*.alpha: 0.9
+!*.alpha: 1
+
+
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+rofi.font: InconsolataForPowerline Nerd Font 11
+Xft.dpi:110
+rofi.dpi:120

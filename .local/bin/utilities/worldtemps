@@ -1,0 +1,36 @@
+#!/bin/bash
+
+## Downloads Data pool to Locations in /tmp/
+download(){
+# if last access date 1 day old or more, then curl new data
+[[ "$(date +%s) - 1190" -gt "$(stat -c %Y /tmp/landquartweather)" ]] &&
+curl https://www.yr.no/place/Switzerland/Graub%C3%BCnden/Landquart/  1>/dev/null 2>&1 > /tmp/landquartweather
+
+[[ "$(date +%s) - 1190" -gt "$(stat -c %Y /tmp/landquartclimate)" ]] &&
+curl wttr.in/Landquart?format=3 1>/dev/null 2>&1 > /tmp/landquartclimate
+
+[[ "$(date +%s) - 1190" -gt "$(stat -c %Y /tmp/landquartweather2)" ]] &&
+curl http://www.meteocentrale.ch/en/europe/switzerland/weather-landquart-gr/details/S069309/ 1>/dev/null 2>&1 > /tmp/landquartweather2
+
+}
+
+##  Landquart weather climate and temps
+landquart(){
+download
+climate=$(awk {'print $2'} /tmp/landquartclimate)
+
+temp=$(grep -m 1 Temperature /tmp/landquartweather | awk -F',' {'print $2'} | cut -d' ' -f 3) #lq1
+temp2=$(grep column-4 /tmp/landquartweather2  | awk -F'>' {'print $2'} | awk -F'<' {'print $1'}) #lq2
+if [[ $temp < $temp2 ]]
+then echo "$climate LQ $temp°:$temp2°"
+elif [[ $temp > $temp2 ]]
+then echo "$climate LQ $temp2°:$temp°"
+else
+echo "$climate lndqrt $temp°"
+fi
+
+}
+
+
+
+"$@"

@@ -1,0 +1,82 @@
+#!/bin/bash
+#color temperature/brightness adjustment scripts (saves to file)
+#Go to the directory where the scripts are held.
+# NEWER VERSIONS USE redshift -PO {num}
+
+cd ~/.local/bin/utilities || exit
+
+#Check if RV exists, if it doesn't make it and give it X value.
+[[ -f RV ]] || echo 6500 > RV
+
+#Setting the local variable to file RV's value.
+num=$(<RV)
+num2=$(<BV)
+
+
+colder(){
+#Check if the number is under an arbitrary limit, and if so increment by X.
+if (( $num <= 6500 ))
+then
+	echo "$((num+=250))" > RV
+	redshift -O ${num}
+#	cat RV
+#	echo 'awesome.emit_signal("redshiftup", function() end)' | awesome-client
+#	dunstify -r 454 -u low "Colour Temperature :  $(<RV)"
+fi
+}
+
+
+warmer(){
+#Check if the number is under an arbitrary limit, and if so increment by X.
+if (( $num >= 1500 ))
+then
+	echo "$((num-=250))" > RV
+	redshift -O ${num}
+#	echo 'awesome.emit_signal("redshiftup", function() end)' | awesome-client
+#	cat RV
+#	dunstify -r 454 -u low "Colour Temperature :  $(<RV)"
+fi
+}
+
+#Check for ddcutil bus ID number
+# sudo ddcutil detect | grep bus | awk -F'-' {'print $2'}
+
+brighter(){
+if ! [ -f BV ]
+then echo 100 > BV
+fi
+if (( $num2 < 100 ))
+then echo "$((num2+=10))" > BV
+sudo ddcutil setvcp --bus 1 10 $num2
+sudo ddcutil setvcp --bus 2 10 $num2
+sudo ddcutil setvcp --bus 3 10 $num2
+sudo ddcutil setvcp --bus 7 10 $num2
+	dunstify -r 454 -u low "Main Monitor Brightness :  $(<BV)"
+fi
+}
+
+
+darker(){
+if ! [ -f BV ]
+then echo 100 > BV
+fi
+
+if (( $num2 > 0 ))
+then	echo "$((num2-=10))" > BV
+sudo ddcutil setvcp --bus 1 10 $num2
+sudo ddcutil setvcp --bus 2 10 $num2
+sudo ddcutil setvcp --bus 3 10 $num2
+sudo ddcutil setvcp --bus 7 10 $num2
+	dunstify -r 454 -u low "Main Monitor Brightness :  $(<BV)"
+fi
+}
+
+value(){
+	echo $(< /home/jon/.local/bin/utilities/RV)
+}
+
+ddcvalue(){
+	echo $(< /home/jon/.local/bin/utilities/BV)
+}
+
+"$@"

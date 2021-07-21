@@ -1,0 +1,289 @@
+#!/bin/bash
+#09.10.19jb
+#05.12.19jb -now able to handle multiple users on one box
+#02.01.20 - ncurses GUI version with dialog dep.
+# no longer maintainable. cannot be used with rhel/centos 8 +
+
+#set -x
+
+
+# Define the dialog exit status codes
+: ${DIALOG_OK=0}
+: ${DIALOG_CANCEL=1}
+: ${DIALOG_HELP=2}
+: ${DIALOG_EXTRA=3}
+: ${DIALOG_ITEM_HELP=4}
+: ${DIALOG_ESC=255}
+
+# VARS
+safePort=$(mktemp /tmp/personalport$destinationServer.XXXXXX)
+alluserPorts=$(mktemp /tmp/alluserports$destinationServer.XXXXXX)
+
+#dialogtempfiles
+tmp_file=$(tempfile 2>/dev/null) || tmp_file=/tmp/test$$
+trap "rm -f $tmp_file" 0 1 2 5 15
+
+
+INPUT=/tmp/menu.sh.$$
+OUTPUT=/tmp/output.sh.$$
+
+function display_output(){
+        local h=${1-10}                 #box height default 10
+        local w=${2-41}                 #box height default 41
+        local t=${3-Output}                     #box title
+        dialog --backtitle "VNCS" --title "${t}" --clear --msgbox "$(<$OUTPUT)" ${h} ${w}
+}
+
+
+#       grabs list of all vnc sessions running, port # and user
+function exportpUsers() {
+                ssh $USER@$destinationServer  'ps -ef | grep vnc' | awk {'print $13,$14'} | grep -v grep | sed 's/(//g' |sed 's/)//g' | awk -F: {'print $2'}| sed '$d'     > $alluserPorts
+}
+
+#       grabs list of all user's sessions running, on which port #
+function exportPort() {
+                ssh $USER@$destinationServer  'vncserver -list  ' | sed 1,4d | awk {'print $1'} |sed 's/://g'  > $safePort
+}
+
+
+function okPort(){
+        unset UNUSED_PORTS
+        for PORT in $(seq  9);
+            do if ! echo $(cat $alluserPorts | awk {'print $1'}) | grep -qow $PORT;
+        then UNUSED_PORTS+="${PORT} "; fi; done
+        openPort=$(echo $UNUSED_PORTS | awk {'print $1'})
+}
+
+
+
+function check_serverlist()  {
+                filempty=$(ls -l $safePort | awk {'print $5'})
+                yourSessions=$(cat $safePort | tr "\n" " ")
+        }
+
+function connect_servers()   {
+                for i in $(cat $safePort); do
+                        nohup xterm -e "ssh -L 590$i:localhost:590$i $destinationServer" &>/dev/null &
+                        sleep 1;
+                        vncviewer localhost:$i &
+                done
+        }
+
+
+function connect_server_specific()   {
+                        nohup xterm -e "ssh -L 590$whichSessionuWant:localhost:590$whichSessionuWant $destinationServer" &>/dev/null &
+                        sleep 1;
+                        vncviewer localhost:$whichSessionuWant &
+        }
+
+function create_session () {
+#       printf 'Choose a session geometry: \n 1: 2550x2850 (Double Horizontal) \n 2: 2550x1410 (Single Horizontal) \n 3: 1430x2530 (Single Vertical) \n' > $OUTPUT
+#       display_output 13 25 "Session List"
+                #if [ "$serverHistory$USER" -lt "1" ]; then
+                dialog --title "VNCS"  \
+                --radiolist "Choose a session geometry" 15 60 4 \
+        "${ch[0]}" "Custom Resolution" ON \
+        "${ch[4]}" "2550x2850 (Double Horizontal)" OFF \
+        "${ch[5]}" "1430x2530 (Single Vertical)" OFF \
+        "${ch[6]}" "2550x1410 (Single Horizontal)" OFF 2>/tmp/menu.sh.$$
+
+
+#
+        read size
+        case $size in
+                "1")
+#                       ssh $destinationServer 'vncserver';
+                        ssh $destinationServer "vncserver :$openPort -geometry 2550x2850";
+                ;;
+                "2")
+                        ssh $destinationServer "vncserver :$openPort -geometry 2550x1410";
+                ;;
+                "3")
+                        ssh $destinationServer "vncserver :$openPort -geometry 1430x2530";
+                ;;
+
+                "4")
+                        create_granular
+                ;;
+        esac
+                        exportPort
+                        exportpUsers
+}
+
+
+function create_granular (){
+
+# dialogue input for asked session
+dialog --title "VNCS" \
+          --clear  \
+            --inputbox "Specify X resolution (e.g. 1920..)" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+Xres=$(< $tmp_file)
+dialog --title "VNCS" \
+          --clear  \
+            --inputbox "Specify Y resolution (e.g. 1080..)" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+Yres=$(< $tmp_file)
+
+ssh $destinationServer "vncserver :$openPort -geometry ${Xres}x${Yres}";
+
+}
+
+
+function read_back () {
+                    exportPort
+                    exportpUsers
+                    okPort
+                    cat $safePort >$OUTPUT
+                    display_output 13 25 "Session List"
+}
+
+function create_new() {
+check_serverlist
+create_session;
+exportPort;
+exportpUsers;
+okPort;
+}
+
+
+##if [ "$serverHistory$USER" -lt "1" ]; then
+#dialog --title "VNCS"  \
+#       --radiolist "Connect to which Session?" 15 60 4 \
+#       1 "${ARR[1]}" ON \
+#       2 "${ARR[2]}" OFF \
+#       3 "Type in Hostname" OFF 2>/tmp/menu.sh.$$
+##
+
+
+# Generate the dialog box
+dialog --title "VNCS" \
+          --clear  \
+            --inputbox "Connect to which host?" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+destinationServer=$(cat $tmp_file)
+cat $tmp_file > /tmp/serverHistory$USER
+
+exportPort
+exportpUsers
+check_serverlist
+okPort
+
+
+while true
+do
+###display main menu
+dialog --clear  --help-button --backtitle "VNCS connector, welcome $USER" \
+--title " [ VNCS ]" \
+--menu "You can use the UP/DOWN arrow keys, the first \n\
+letter of the choice as a hot key, or the \n\
+number keys 1-9 to choose an option. \n\
+choose the option" 25 70 5 \
+Connect "connect to a session" \
+Create "create a new session" \
+SessionList "Show a list of open session name-handles" \
+SessionKill "Kill certain open sessions" \
+Exit "Exit to the shell" 2>"${INPUT}"
+
+menuitem=$(<"${INPUT}")
+
+#make decision
+case $menuitem in
+                Connect)
+                        if [ "$filempty" -gt "0" ]; then
+#show which sessions are currently open
+read_back;
+# dialogue input for asked session
+dialog --title "VNCS" \
+          --clear  \
+            --inputbox "Connect to which session? a for all?" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+whichSessionuWant=$(< $tmp_file)
+
+        if [ "$whichSessionuWant" == "a" ]; then
+                connect_servers;
+        elif grep -Fxq "$whichSessionuWant" $safePort; then connect_server_specific;
+
+        else echo "No matching sessions found, please double check port number" > $OUTPUT;
+                    display_output 13 25 "Session List"
+
+            fi
+                        fi
+                ;;
+
+
+Create)
+
+                        if [ "$filempty" -gt "0" ];
+                        then
+                                echo "the following sessions are already open:" > $OUTPUT &&  for i in $(cat $safePort); do echo "$i" >> $OUTPUT;
+                                done
+                        display_output 20 25 "Session List"
+                        dialog --yesno "Would you like to create more?" 20 60
+                        response=$?
+                        case $response in
+                                   0)  check_serverlist
+#                                       create_session;
+                                        create_granular;
+                                        exportPort;
+                                        exportpUsers;
+                                        okPort;
+                                        ;;
+                                   1) echo "File not deleted." ;;
+                                   255) echo "[ESC] key pressed." ;;
+                        esac
+
+                                        if [ "$createNew" == "y" ]; then
+                                        check_serverlist
+                                        create_session;
+                                        exportPort;
+                                        exportpUsers;
+                                        okPort;
+                                        echo "would you like to connect? y for yes";
+                                        read connectAfter;
+                                                if [ "$connectAfter" == "y" ]; then
+                                                exportPort;
+                                                sleep 0.1;
+                                                echo "the following sessions are now open:" && cat $safePort;
+                                                connect_servers;
+                                                else echo "Rerun the script for anything else, or drop me an email for questions :) ";
+                                                fi
+                                        fi
+
+                        else echo "There are currently no open VNCserver sessions on $destinationServer, making some now..." > $OUTPUT;
+                        display_output 20 25 "Session List"
+                                        create_granular;
+                                        exportPort;
+                                        exportpUsers;
+                                        check_serverlist
+                                                connect_servers;
+                        fi
+                ;;
+
+SessionList)
+read_back
+;;
+
+SessionKill)
+read_back
+# dialogue input for asked session to kill
+dialog --title "VNCS" \
+--clear  \
+--inputbox "Enter session number to kill" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+sessionkilled=$(< $tmp_file)
+ssh $destinationServer "vncserver -kill :$sessionkilled";
+read_back
+;;
+
+
+Exit)  echo "Bye"; break ;;
+esac
+
+done
+

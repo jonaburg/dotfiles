@@ -1,0 +1,1716 @@
+Oct 06 19:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 19:49 : avahi: Service 'Music Player @ lambda' successfully established.
+Oct 06 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 19:52 : player: played "2019/March/Alien.opus"
+Oct 07 20:02 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 07 20:02 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 07 20:06 : player: played "2018/Takeda No Komoriuta 1969 竹田の子守唄-rauS1ujGLXg.ogg"
+Oct 08 12:34 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 08 12:39 : player: played "2020/Oct/03 - Little Bubble, Where Are You Going-3745386.mp3"
+Oct 08 12:44 : player: played "2020/Oct/Bunda Internacionale-115581127.mp3"
+Oct 08 12:48 : player: played "2020/Oct/Climbing A Wall-204036691.mp3"
+Oct 08 12:52 : player: played "2020/Oct/Icronic-331749420.mp3"
+Oct 08 12:55 : player: played "2020/Oct/Jazz Math Rock Thing (mastered)-170875929.mp3"
+Oct 08 13:03 : player: played "2020/Oct/Jean Jean - With Mountains As Witness-221026430.mp3"
+Oct 08 13:07 : player: played "2020/Oct/LITE - 'Echolocation'-163998424.mp3"
+Oct 08 13:10 : player: played "2020/Oct/Marsh Partition-228843246.mp3"
+Oct 08 13:14 : player: played "2020/Oct/Na pět-206995257.mp3"
+Oct 08 13:20 : player: played "2020/Oct/Never Went-649728806.mp3"
+Oct 08 16:14 : player: played "2020/Oct/NO.SLEEP - Mix.10-220839117.mp3"
+Oct 08 16:20 : player: played "2020/Oct/PG Films-117499723.mp3"
+Oct 08 16:23 : player: played "2020/Oct/Polyphia _ G.O.A.T. (Official Music Video)-9_gkpYORQLU.opus"
+Oct 08 16:30 : player: played "2020/Oct/Satellite (feat. Ellie Price)-185160510.mp3"
+Oct 08 21:58 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Oct 09 23:43 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 09 23:47 : player: played "2020/Oct/Icronic-331749420.mp3"
+Oct 09 23:50 : player: played "2020/Oct/Jazz Math Rock Thing (mastered)-170875929.mp3"
+Oct 09 23:58 : player: played "2020/Oct/Jean Jean - With Mountains As Witness-221026430.mp3"
+Oct 10 00:02 : player: played "2020/Oct/LITE - 'Echolocation'-163998424.mp3"
+Oct 10 00:05 : player: played "2020/Oct/Marsh Partition-228843246.mp3"
+Oct 10 00:09 : player: played "2020/Oct/Na pět-206995257.mp3"
+Oct 10 00:15 : player: played "2020/Oct/Never Went-649728806.mp3"
+Oct 10 14:54 : player: played "2020/Oct/NO.SLEEP - Mix.10-220839117.mp3"
+Oct 10 15:00 : player: played "2020/Oct/PG Films-117499723.mp3"
+Oct 10 15:03 : player: played "2020/Oct/Polyphia _ G.O.A.T. (Official Music Video)-9_gkpYORQLU.opus"
+Oct 10 15:10 : player: played "2020/Oct/Satellite (feat. Ellie Price)-185160510.mp3"
+Oct 10 15:14 : player: played "2020/Oct/This Town Needs Guns - A Different Kind of Tall (small)-74459150.mp3"
+Oct 10 15:19 : player: played "2020/Oct/This Town Needs Guns - Gibbon-184989470.mp3"
+Oct 11 00:59 : player: played "2020/Oct/Town Portal - Uncle Genie-57535718.mp3"
+Oct 11 01:02 : player: played "2020/Oct/Unfair Treaty-228843335.mp3"
+Oct 11 01:06 : player: played "2020/Oct/White Lies (feat. Jenni Potts)-166946567.mp3"
+Oct 11 01:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 11 01:16 : player: played "2019/February/Os Tincoãs - Deixa A Gira Girar (j g b edit)-3xt8Mp8oWzc.opus"
+Oct 11 01:25 : player: played "2019/February/Roy Hargrove Quintet - Strasbourg St Denis-CQ6dbUmU__o.opus"
+Oct 11 01:34 : player: played "2019/May/Brambles - Half-Gramme Holiday-82899845.mp3"
+Oct 11 01:43 : player: played "2019/May/The Cinematic Orchestra - To Build A Home (Tale Cooper Edit)-9nzl6e9zw7c.opus"
+Oct 11 02:24 : player: played "2019/April/deaddogstwo.opus"
+Oct 11 02:30 : player: played "2019/March/Turquoise Hexagon Sun.m4a"
+Oct 11 02:35 : player: played "2019/March/Zoetrope.ogg"
+Oct 11 02:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 11 02:39 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Oct 11 02:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 11 02:39 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Oct 11 02:43 : player: played "Minor Tantrums/10 Stop Crying and Sing.m4a"
+Oct 11 02:44 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 11 02:44 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 11 02:45 : player: played "Ruby Haunt/Blue Hour/8-Blue Hour.mp3"
+Oct 11 02:53 : player: played "for_audio_test.opus"
+Oct 11 02:57 : player: played "Mac DeMarco _ 'My Kind of Woman' (OFFICIAL VIDEO)-wIuBcb2T55Q.flac"
+Oct 11 02:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Oct 11 03:30 : player: played "Mount Kimbie - Made To Stray-7SfFInoSotg.flac"
+Oct 13 19:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 19:21 : avahi: Service 'Music Player @ lambda' successfully established.
+Oct 13 19:21 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 13 19:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 19:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 21:07 : update: added 2020/Oct/FINAL FANTASY VII REMAKE Main Theme; Violin, Cello, Double Bass & Piano Cover _ PitTan-whYAPyp1ldc.opus
+Oct 13 21:07 : update: added 2020/Oct/Final Fantasy VII - Jazz version-ew_JVr7qaTo.opus
+Oct 14 16:26 : player: played "2019/March/Alien.opus"
+Oct 14 16:44 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 14 20:49 : update: added 2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus
+Oct 15 11:51 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 11:58 : player: played "2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus"
+Oct 15 12:02 : player: played "2020/Oct/Climbing A Wall-204036691.mp3"
+Oct 15 15:11 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 15:14 : player: played "2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus"
+Oct 15 22:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 22:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 22:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 22:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 23:00 : update: added 2020/Oct/FINAL FANTASY 7 Remake - Tifa's Theme - Violin and Guitar cover-aRwoVGDOXDs.m4a
+Oct 15 23:08 : update: removing 2020/Oct/FINAL FANTASY VII REMAKE Main Theme; Violin, Cello, Double Bass & Piano Cover _ PitTan-whYAPyp1ldc.opus
+Oct 15 23:08 : update: added 2020/Oct/FF7RMaintheme.opus
+Oct 15 23:11 : update: added 2020/Oct/ff7cut.opus
+Oct 15 23:11 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 15 23:12 : player: played "2020/Oct/ff7cut.opus"
+Oct 15 23:29 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Oct 15 23:29 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Oct 15 23:29 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Oct 15 23:30 : update: added 2020/Oct/ff7cut.mp3
+Oct 15 23:35 : update: added 2020/Oct/ff7rmain.opus
+Oct 15 23:35 : update: added 2020/Oct/ff7rmain.mp3
+Oct 15 23:36 : update: added 2020/Oct/ff7rmain2.mp3
+Oct 15 23:38 : update: added 2020/Oct/Aerith's' Theme (from 'Final Fantasy VII') Cello and Piano-ABSRgPwBYo8.opus
+Oct 16 10:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 16 10:26 : player: played "2020/Oct/ff7cut.opus"
+Oct 18 13:57 : player: played "2020/Oct/FF7RMaintheme.opus"
+Oct 19 19:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 19 19:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 19 19:44 : avahi: Service 'Music Player @ lambda' successfully established.
+Oct 19 19:44 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 19 19:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 21 08:42 : update: added 2020/Oct/latinos....'Yo voy A votar por Donald Trump' Temazo!!!!-QNMsw9oADgM.opus
+Oct 22 08:58 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 22 09:07 : player: played "2020/Oct/ff7cut.opus"
+Oct 22 09:07 : player: played "2020/Oct/FF7RMaintheme.opus"
+Oct 22 09:07 : player: played "2020/Oct/FINAL FANTASY 7 Remake - Tifa's Theme - Violin and Guitar cover-aRwoVGDOXDs.m4a"
+Oct 22 09:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 09:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 09:08 : avahi: Service 'Music Player @ lambda' successfully established.
+Oct 22 09:08 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 22 09:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 09:13 : player: played "2020/Oct/Bunda Internacionale-115581127.mp3"
+Oct 26 11:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 11:20 : avahi: Service 'Music Player @ lambda' successfully established.
+Oct 26 11:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Oct 26 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 11:25 : player: played "2020/Oct/03 - Little Bubble, Where Are You Going-3745386.mp3"
+Oct 26 13:12 : player: played "2020/Oct/Final Fantasy VII - Jazz version-ew_JVr7qaTo.opus"
+Oct 28 17:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 01 13:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 13:11 : avahi: Service 'Music Player @ lambda' successfully established.
+Nov 01 13:11 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 01 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 13:14 : player: played "C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3"
+Nov 01 13:24 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 01 13:24 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 01 15:28 : update: added 2020/Nov/Daft Punk - Horizon  (Henry Saiz Just wanted you to stay Remix)-115375991.mp3
+Nov 01 15:38 : update: added 2020/Nov/Tron Legacy   Soundtrack OST   15 Solar Sailer   Daft Punk-124387576.mp3
+Nov 01 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 01 16:04 : update: added 2020/Nov/Kitt'Indie Space Disco Triangle-129278244.mp3
+Nov 01 16:56 : update: added 2020/Nov/14 The Mists Cleared-251289045.mp3
+Nov 01 20:08 : update: added 2020/Nov/Tongue Wrong Song-126421164.mp3
+Nov 01 22:07 : player: played "C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3"
+Nov 02 09:58 : update: added 2020/Nov/Water Temple - Oregon Eclipse Festival 2017 (Ambient Set)-341181351.mp3
+Nov 03 19:58 : update: added 2020/Nov/Night in Bangladesh-703987378.mp3
+Nov 05 15:19 : update: added 2020/Nov/Bravely Second- End Layer OST - Battle Of Providence [HQ]-251303153.mp3
+Nov 05 15:19 : update: added 2020/Nov/Soul Calibur VI OST City Ruins Soul NieR Automata-547220730.mp3
+Nov 05 21:56 : update: added 2020/Nov/Kirby  Triple Deluxe Final Boss Theme 2 [星のカービィトリプルデラックス ラスボスBGM2]-136522350.mp3
+Nov 05 23:33 : update: added 2020/Nov/You Will Know Our Names-196047263.mp3
+Nov 06 10:38 : update: added 2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3
+Nov 06 19:25 : update: added 2020/Nov/Zhea Erose - Spiritualistica [just intonation]-3iWRlf3wrPs.opus
+Nov 06 19:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 06 19:42 : player: played "2020/Nov/Zhea Erose - Spiritualistica [just intonation]-3iWRlf3wrPs.opus"
+Nov 06 20:15 : update: added 2020/Nov/Zhea Erose - Novemdeca [in Just Intonation]-ZIn6uis5duw.opus
+Nov 06 22:31 : update: added 2020/Nov/intonate.opus
+Nov 06 22:59 : update: added 2020/Nov/intonate.mp3
+Nov 06 23:34 : update: removing 2020/Nov/intonate.mp3
+Nov 06 23:34 : update: added 2020/Nov/unidecimal.mp3
+Nov 06 23:35 : update: removing 2020/Nov/unidecimal.mp3
+Nov 06 23:35 : update: added 2020/Nov/tridecimal.mp3
+Nov 07 00:16 : update: added 2020/Nov/Zhea Erose - Prayer Room [31-EDO, 12-EDO, Just]-7RLwlGpyHz0.opus
+Nov 07 00:17 : update: removing 2020/Nov/intonate.opus
+Nov 08 16:49 : update: removing 2020/Nov/tridecimal.mp3
+Nov 08 16:49 : update: added 2020/Nov/hoteldecebal.mp3
+Nov 10 16:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 10 16:28 : update: added 2020/Nov/fable and chill-Dgxcij40me4.opus
+Nov 11 11:34 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 11 11:38 : player: played "2020/Nov/Night in Bangladesh-703987378.mp3"
+                                                                                       Nov 11 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:45 : avahi: Service 'Music Player @ lambda' successfully established.
+Nov 11 12:45 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 11 12:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:51 : player: played "2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3"
+Nov 11 13:18 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 11 15:13 : player: played "2020/Nov/fable and chill-Dgxcij40me4.opus"
+Nov 11 15:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 11 16:00 : player: played "2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3"
+Nov 11 17:01 : player: played "2020/Nov/fable and chill-Dgxcij40me4.opus"
+Nov 11 21:56 : update: added 2020/Nov/Fable 1, 2 and 3's Most Peaceful and Calm Songs (Albions Greatest Hit's)-9_9_HxGl844.opus
+Nov 11 21:56 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 12 09:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 12 11:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 12 11:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 13 13:59 : player: played "2020/Nov/14 The Mists Cleared-251289045.mp3"
+Nov 13 14:08 : player: played "2020/Nov/Bravely Second- End Layer OST - Battle Of Providence [HQ]-251303153.mp3"
+Nov 13 14:16 : player: played "2020/Nov/Daft Punk - Horizon  (Henry Saiz Just wanted you to stay Remix)-115375991.mp3"
+Nov 13 14:20 : player: played "2020/Nov/Kirby  Triple Deluxe Final Boss Theme 2 [星のカービィトリプルデラックス ラスボスBGM2]-136522350.mp3"
+Nov 13 14:31 : player: played "2020/Nov/Soul Calibur VI OST City Ruins Soul NieR Automata-547220730.mp3"
+Nov 13 14:34 : player: played "2020/Nov/Tongue Wrong Song-126421164.mp3"
+Nov 13 14:37 : player: played "2020/Nov/Tron Legacy   Soundtrack OST   15 Solar Sailer   Daft Punk-124387576.mp3"
+Nov 13 15:51 : player: played "2020/Nov/Water Temple - Oregon Eclipse Festival 2017 (Ambient Set)-341181351.mp3"
+Nov 13 15:54 : player: played "2020/Nov/You Will Know Our Names-196047263.mp3"
+Nov 13 21:05 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 13 21:10 : player: played "2020/Oct/03 - Little Bubble, Where Are You Going-3745386.mp3"
+Nov 13 21:15 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 13 21:20 : player: played "2020/Oct/Aerith's' Theme (from 'Final Fantasy VII') Cello and Piano-ABSRgPwBYo8.opus"
+Nov 13 21:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 13 21:28 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Nov 13 21:28 : player: played "2020/Oct/FF7RMaintheme.opus"
+Nov 13 21:32 : player: played "2020/Oct/FINAL FANTASY 7 Remake - Tifa's Theme - Violin and Guitar cover-aRwoVGDOXDs.m4a"
+Nov 13 21:53 : player: played "2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus"
+Nov 15 00:43 : player: played "2019/April/deaddogstwo.opus"
+Nov 15 15:08 : player: played "2019/March/Turquoise Hexagon Sun.m4a"
+Dec 20 11:34 : update: added /Etherwood - Give It Up-E29kpquu8W4.flac
+Dec 20 11:34 : update: added /Modest Mouse - Float On-wSEsMpMxkg4.webm
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/07 Wheel of Fortunates.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/06 Cemetery Cats.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/01 Follow Me.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/04 Choir Sings The Cure.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/10 Stop Crying and Sing.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/05 Three Doves.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/09 Miss Pedestria.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/08 Tragedy Gold.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/03 No One Can Save Us.m4a
+Dec 20 11:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 20 11:34 : update: added Minor Tantrums/02 Inevitable Devil.m4a
+Dec 20 11:34 : update: added /Alex Jones Rants as an Indie Folk Song-uWd6XgBVIcg.opus
+Dec 20 11:34 : update: added /netflix and chillwave-225908821.flac
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 09 Wordee.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 05 Vomets.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 15 Splitting Time.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 11 The Monkey On Your Back.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 13 WHAT TIME IS IT-.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 04 Girl.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 06 Dedicated To Nunu.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 14 That Awful Sound.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 12 Played Us Cheap.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 01 BNS.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 03 Trouble.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 02 In + Out.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 08 Caleb Just Monkeying Around.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 10 Santa Maria (Dedicated to Chuchita).mp3
+Dec 20 11:34 : update: added Standing On The Corner/Standing On The Corner/Standing On The Corner - Standing On The Corner - 07 OFF A LITTLE BIT.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Red Burns/Standing On The Corner - RED BURNS - 02 Side Y.mp3
+Dec 20 11:34 : update: added Standing On The Corner/Red Burns/Standing On The Corner - RED BURNS - 01 Side X.mp3
+Dec 20 11:34 : update: added Cool Sounds/Gristle/Cool Sounds - Gristle - 01 Gristle.mp3
+Dec 20 11:34 : update: added Cool Sounds/Gristle/Cool Sounds - Gristle - 02 Temper.mp3
+Dec 20 11:34 : update: added Cool Sounds/Gristle/Cool Sounds - Gristle - 04 Grudge.mp3
+Dec 20 11:34 : update: added Cool Sounds/Gristle/Cool Sounds - Gristle - 03 Velvet.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 08 Timeless.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 03 Vivid Colors.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 02 Fractal.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 07 True Player.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 04 Sunrise Loner.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 05 Glamorized Memories.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 01 Green Love.mp3
+Dec 20 11:34 : update: added Trinity/Fractal Waves/Trinity - Fractal Waves - 06 Honey R.O.N.mp3
+Dec 20 11:34 : update: added /T.E.E.D - Garden (Calibre Remix)-GuQBopNcve0.flac
+Dec 20 11:34 : update: added Diablo2/The Music of Diablo 1996 - 2011_ 15 Year Anniversary/2 - Tristram.mp3
+Dec 20 11:34 : update: added /game boi adv - c stick-m-j72pNPXnc.m4a
+Dec 20 11:34 : update: added /CHON - Newborn Sun-sROJlr84coY.flac
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/2-Darling.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/9-It Will Happen The Next Time Around.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/7-Demon.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/4-A Quiet Evening.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/3-Sorry, Sabrina.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/1-Sucker.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/5-Non Sense.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/6-Sanctuary.mp3
+Dec 20 11:34 : update: added Ruby Haunt/Blue Hour/8-Blue Hour.mp3
+Dec 20 11:34 : update: added /beach boys - Here Today - Pet Sounds-NZfUzGpwMxM.opus
+Dec 20 11:34 : update: added /Nina Simone-I Wish I Knew How It Would Feel To Be Free + Lyrics-aI-ezEtJ_-s.flac
+Dec 20 11:34 : update: added Dusk Warrior/Dusk Warrior - With Love and Kisses - 03 Intermission.flac
+Dec 20 11:34 : update: added Dusk Warrior/Dusk Warrior - With Love and Kisses - 04 Lovers End.flac
+Dec 20 11:34 : update: added Dusk Warrior/Dusk Warrior - With Love and Kisses - 01 Duskdown Showdown.flac
+Dec 20 11:34 : update: added Dusk Warrior/Dusk Warrior - With Love and Kisses - 02 Thunder Smile.flac
+Dec 20 11:34 : update: added Dusk Warrior/Dusk Warrior - With Love and Kisses - 05 Wondrous Horizon.flac
+Dec 20 11:34 : update: added /Children Of Zeus - Still Standing (feat. DRS) (Lenzman Remix) (Official Video)-IXTTmlW4xGg.flac
+Dec 20 11:34 : update: added /MAC DEMARCO & JON LENT - I WAS A FOOL TO CARE-uDA6qDdCuvA.opus
+Dec 20 11:34 : update: added /Stickybuds - Syncopated Love Letters (Chill Mix 2017)-329361752.flac
+Dec 20 11:34 : update: added /Yo Gotti - Great Fairy's Fountain ft. Childish Gambino & Notorious B.I.G (Ocarina of Time remix)-wOA2kNZcX-U.opus
+Dec 20 11:34 : update: added /Twos-214563851.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 08 come & get it (feat. Yung Bae).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 06 otaku mode (feat. Birocratic).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 10 flute salad.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 07 keep shining (feat. The Kount).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 05 soul crusade (feat. Engelwood).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 02 don't lose the feeling.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 17 high tide (feat. Stereocool).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 11 A Groovy Thing.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 09 persevere (feat. Kyle Greene).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 01 A Groovy Intro.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 03 want me (need me).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 13 never felt a feeling like this.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 14 not like the others.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 18 breezy (feat. Mtbrd).flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 12 long distance.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 04 that's cold.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 15 get yourself together.flac
+Dec 20 11:34 : update: added Flamingosis/Flamingosis - A Groovy Thing - 16 guilty pleasure.flac
+Dec 20 11:34 : update: added /Alcest - Eclosion-7J_wihBSdBA.opus
+Dec 20 11:34 : update: added /EG.547 James Teej.mp3
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 06 The unenlightenment.flac
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 05 When did rock end and post rock begin-.flac
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 02 I know how it feels.flac
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 01 The short list of people you wanted to be.flac
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 03 Creatures caught in traps.flac
+Dec 20 11:34 : update: added Sightseers FLAC/Sightseers - the short list of people you wanted to be - 04 Your glass is half empty (my glass is half full).flac
+Dec 20 11:34 : update: added /Best of Trip-Hop & Downtemp & Lo-Fi & Nujazz-263816121.flac
+Dec 20 11:34 : update: added /HOMESHAKE - Doo Dah-bf89Y7D5qSQ.opus
+Dec 20 11:34 : update: added /ELVIS - Bridge Over Troubled Water (NEW mix! Great sound!)-mLbOBoa8vD8.opus
+Dec 20 11:34 : update: added /ＲＯＢＯＴＩＣ - Simpsonwave-VlI2lQZv3oo.flac
+Dec 20 11:34 : update: added /Calibre & High Contrast - Mr Majestic HD-Nswe73umPQk.opus
+Dec 20 11:34 : update: added We've Been Talking/03 Fierce Pit Bosses.mp3
+Dec 20 11:34 : update: added We've Been Talking/08 Piano.mp3
+Dec 20 11:34 : update: added We've Been Talking/02 Nag Champa.mp3
+Dec 20 11:34 : update: added We've Been Talking/01 Backaches & Cardigans.mp3
+Dec 20 11:34 : update: added We've Been Talking/04 Gabbi Gabby.mp3
+Dec 20 11:34 : update: added We've Been Talking/09 Morse Code.mp3
+Dec 20 11:34 : update: added We've Been Talking/07 Creamist.mp3
+Dec 20 11:34 : update: added We've Been Talking/06 We've Been Talking.mp3
+Dec 20 11:34 : update: added We've Been Talking/05 Gingerly.mp3
+Dec 20 11:34 : update: added /Ramshackle Glory - 9 - Your Heart Is A Muscle The Size Of Your Fist-pC3IrqUpm9U.opus
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 01 Space Cadet.flac
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 03 Tip Toeing On Pond Water.flac
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 02 Spunion.flac
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 06 Screamers.flac
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 04 We're Having A Party.flac
+Dec 20 11:34 : update: added Sleepydog/sleepy dog - Just Let Sleeping Dogs Lie - 05 Anakin Skywalker Misses You.flac
+Dec 20 11:34 : update: added godspeed/03 Asunder, Sweet.mp3
+Dec 20 11:34 : update: added godspeed/04 Piss Crowns Are Trebled.mp3
+Dec 20 11:34 : update: added godspeed/02 Lambs' Breath.mp3
+Dec 20 11:34 : update: added godspeed/01 Peasantry or ‘Light! Inside of Light!’.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/1 - Fiery Atlas (Intro).mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/3 - I Fast Early.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/6 - Tear As I Fly.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/2 - Astray Life.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/7 - A Layer Fits.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/8 - Leafy Stair.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/5 - Year As Lift.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/4 - Raft Easily.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/9 - Era Falsity.mp3
+Dec 20 11:34 : update: added Rooftops/A Forest of Polarity/10 - Sea Frailty.mp3
+Dec 20 11:34 : update: added /285 (MAXO ParasolMix)-195050030.flac
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-cobweb.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-quiet.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-zombie.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-barrel-roll.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-goto-tapirus.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-titan.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-teenager.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-idiot-sauce.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-girl-friend.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-extra.mp3
+Dec 20 11:34 : update: added Rega/Solt & Plum/rega-the-seto.mp3
+Dec 20 11:34 : update: added Rega/Million/07 - Rega - Neon.mp3
+Dec 20 11:34 : update: added Rega/Million/03 - Rega - Q.mp3
+Dec 20 11:34 : update: added Rega/Million/08 - Rega - Pingpong.mp3
+Dec 20 11:34 : update: added Rega/Million/01 - Rega - Endoor.mp3
+Dec 20 11:34 : update: added Rega/Million/06 - Rega - DOSEI.mp3
+Dec 20 11:34 : update: added Rega/Million/11 - Rega - BUS.mp3
+Dec 20 11:34 : update: added Rega/Million/02 - Rega - VIP.mp3
+Dec 20 11:34 : update: added Rega/Million/05 - Rega - Sunship.mp3
+Dec 20 11:34 : update: added Rega/Million/10 - Rega - D.D.D.mp3
+Dec 20 11:34 : update: added Rega/Million/09 - Rega - WAX.mp3
+Dec 20 11:34 : update: added Rega/Million/04 - Rega - Tonycony.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-aurora.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-secret-garden.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-impact.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-smile.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-love-it-or-leave-it.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-mr-marlowe.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-u-w-a-h.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-gossip.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-kuma.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-pepo.mp3
+Dec 20 11:34 : update: added Rega/Lyrics/rega-comedy.mp3
+Dec 20 11:34 : update: added /A Picture of Her - C [Full LP]-FZwDgkVGIsY.flac
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 04 1 More Chance.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 10 44 Ways.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 09 Jordan 3.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 08 Let It Smoke (Parts 1 & 2).mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 02 Midnight Run.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 06 Los Santos Freestyle.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 01 Overture.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 11 Yukko (Single Version).mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 13 Let It Smoke 2013.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 12 Midnight Run 2013.mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 14 Yukko (First Version).mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 05 On My Hometown (Dom K. Cover).mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 03 Yukko (Love Version).mp3
+Dec 20 11:34 : update: added Vektroid/Siddiq & Vektroid - Midnight Run/Siddiq & Vektroid - Midnight Run - 07 Fly Shit.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 01 Zaku no Reanimation.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 06 Colour On Land.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 05 Girl Take Flight.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 03 Hospital Zone.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 04 Segfault Temple Vigo.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - RE•SET/Vektroid - RE•SET - 02 Gaze Dream.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 15 No Stone.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 13 Rapefear.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 04 Theatré Virtua.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 12 Nimbus Stage Select.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 16 Seed of Life - New Media.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 01 All Day - Mindprison.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 05 Avalon Reverse.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 03 Muku Grid.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 18 Diskloader.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 11 Into the Light (Night).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 08 Surrounded.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 09 Sleepline (Sleepfear).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 10 Walled City.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 20 Casino Virtua.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 07 Blue Earth.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 06 Air.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 17 Dig Dream.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 02 Nakano #18.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 14 Afterdawn.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 19 Oceanus.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 04 lus3.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 07 Rmx Cncn2.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 01 -Qn-.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 02 sc,as(d).mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 03 se).mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 06 ntdrvvvr Arc.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - iss2+2/Vektroid - iss2+2 - 05 Gun(he).mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 05 Untitled.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 10 Interlude.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 12 Over U.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 09 Yr Mind.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 06 Skate Club I.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 11 Neo Cali.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 04 Pak TV.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 08 Yr Heart.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 13 Softly.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 07 Skate Club II.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 01 Neo Miami.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 03 Calm.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 14 Terminal.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 02 Splash.mp3
+Dec 20 11:34 : update: added Vektroid/Neo Cali/Vektroid - Neo Cali - 15 Tahiti TV.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 01 GOML.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 08 Mosaic.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 10 HBO CD.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 12 Disku.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 02 Ssun Dreamss.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 11 Break Out!.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 09 Warm Life - New Life.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 03 Change Your Mind - Waiting 4 U.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 04 Virtual Big Turtle.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 06 Black Horse.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 05 Slime Ritual - Cinemax.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Fuji Grid TV EX/New Dreams Ltd. - Fuji Grid TV EX - 07 Ur Girl.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 07 Microsleep 2012.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 04 ドリーミー.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 08 Spirited Child.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 01 Skyfall IV (Strike Suit).mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 06 Cosmorama.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 09 Hushedcasket.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 02 LDVHD Terminus.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 03 ROGO.mp3
+Dec 20 11:34 : update: added Vektroid/Sacred Tapestry/Sacred Tapestry - Shader Complete - 05 Transmigration.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 13 Twice Mouth - ANA.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 16 Comfortable Place - Fossils - Ajinomoto.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 09 No Laugh.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 21 Mt. Akagi.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 04 That Way - E Grade.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 03 Come True.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 22 Wartime.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 01 M.M.D.A.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 02 Love U Better.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 08 L.F.T. Gidos.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 15 Just Cruise.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 24 Observatory 3.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 05 Secret Pathway.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 11 Trails - Years Go By.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 19 Enemy.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 14 Lady - Rollin.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 17 Recreation Mio.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 18 Prey.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 10 Sakuragaoka.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 23 Creep.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 06 Gibson - Kuro - Let You Go.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 20 Start Today.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 07 Wonder 2.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Vektroid Texture Maps/Vektroid - Vektroid Texture Maps - 12 Sky Father.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 07 heihu.org.cn MOON FOUNTAIN.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 10 NEO SUNSETTERS エネルギー危機iCONGO.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 08 PRISM CORP不可能な生き物.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 15 M A X I FERRARI ~ レーススラム.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 25 3D崖の端 ∕ ''B E Y O N D'' THE LIMIT.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 06 7 WONDERS OF THE iNTERNET FT WIND☯WS 97「GEOMETRIC HEADDRESS」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 17 XX ''RUBY DUSK ON A 2ND LIFE NUDE BEACH'' ☯ . . . の生活・・・「ロベルタ」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 03 ODYSSEUSこう岩寺「OUTDOOR MALL」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 19 ☆ANGELBIRTH☆.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 20 街へSAPPORO NiGHTS.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 26 三更.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 13 CONTEMPORARYセーター (from New Dreams Ltd. demo).mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 16 風船ガムBUBBLEGUM.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 18 「GOODNIGHT BLESS YOU」つかの間のSPIRIT.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 01 01 WELCOME 2 SHOP@HOME NETW☯RK LLC.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 02 札幌地下鉄・・・「ENTERING FLIGHT MUSEUM」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 12 HB☯ PORN.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 04 iMYSTIQUEエジプト航空 「EDU」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 11 TUSCANY背筋に対して「NEO SPA」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 24 DAYBREAK来世 「FLIGHT TO ISRAEL」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 09 T E S T A R O S S A interLude ~ iNTELLiMAX RELEASE GROUP PRESENTS.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 21 WKPX CEEPHAX '81新しい年 「NITE OWL TV」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 14 HOTEL TAIWAN WELC☯MES U.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 23 HEALING海岸で昼寝 「MY LAST TEARS」.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 05 ''GEAR UP'' 4 FLIGHTシアトルズベスト.mp3
+Dec 20 11:34 : update: added Vektroid/情報デスクVIRTUAL - 札幌コンテンポラリー/情報デスクVIRTUAL - 札幌コンテンポラリー - 22 MARBLE白鳥.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 06 Tesselation B.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 07 Wildlife Diskette.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 02 Polytravellers A.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 04 Prismatic.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 01 Giza.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 03 Polytravellers B.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Polytravellers/Vektroid - Polytravellers - 05 Tesselation A.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 12 Planetary Zones.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 18 Amethyst Martini.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 19 Untitled Rivers.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 13 Amazon Polytrac.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 05 Featherskull (feat. Betamaxx).mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 16 Orion Megalith.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 06 Nova Prophet.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 15 VGA Coral Reef.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 14 Interstellar Clusters.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 11 Walk With Me Saturn.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 17 Dendrite Edit.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 07 Infinity Diskette.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 04 VGA Grid.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 01 Interstellar Safari.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 09 Terrestrial Sands.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 08 Dusk at Temple Amiga.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 03 Awakening Parakeet.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 02 Mindscape.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Starcalc/Vektroid - Starcalc - 10 Awakening Starscape.mp3
+Dec 20 11:34 : update: added Vektroid/Night Signal/Vektroid - Night Signals II - 04 Drvvv2.mp3
+Dec 20 11:34 : update: added Vektroid/Night Signal/Vektroid - Night Signals II - 03 Pcisch.mp3
+Dec 20 11:34 : update: added Vektroid/Night Signal/Vektroid - Night Signals II - 01 Ladn2.mp3
+Dec 20 11:34 : update: added Vektroid/Night Signal/Vektroid - Night Signals II - 02 sh9h.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 03 Psde-x.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 02 Nf.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 01 dusc.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 06 ii).mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 07 IP4.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 05 CC.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - isÆ/Vektroid - isÆ - 04 Fæ.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 08 Can't Wait.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 01 Dead Bart.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 14 Wave Diggin.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 02 Dial Giri.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 04 Edge of Hell - Akumu no Ojo.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 17 Big Danger Outro.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 11 Odd Spawns.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 05 Ferrocolor.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 03 Miranova Excellent.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 09 Must Wait.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 16 Final Round - No Crisis.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 13 We've Got A Crisis.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 10 CLFF.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 07 Kill Data Ocean.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 15 Gun Yolk.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 06 Chainsaw Man.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Big Danger/Vektroid - Big Danger - 12 Flow Alert.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 15 No Stone.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 13 Rapefear.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 04 Theatré Virtua.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 12 Nimbus Stage Select.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 16 Seed of Life - New Media.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 01 All Day - Mindprison.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 05 Avalon Reverse.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 03 Muku Grid.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 18 Diskloader.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 11 Into the Light (Night).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 08 Surrounded.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 09 Sleepline (Sleepfear).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 10 Walled City.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 20 Casino Virtua.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 07 Blue Earth.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 06 Air.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 17 Dig Dream.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 02 Nakano #18.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 14 Afterdawn.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Sleepline(1)/New Dreams Ltd. - Sleepline - 19 Oceanus.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 04 Pure.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 13 Deep Blue.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 14 Wellness Center.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 10 WonderWorks.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 12 Seasons.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 24 Lifestyles.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 07 Newsgroup.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 22 eCruising.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 15 Totsuzen.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 01 Impressions.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 17 Renegade Theme.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 16 Neo Sunsetters.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 02 Loading.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 18 Inventory.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 06 Neo Spa & Salon.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 03 If I Ever.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 23 Perfect Way.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 05 Beauty Plus.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 08 WebScapes.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 09 Sol Air.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 11 GeoViewer.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 21 Millenium Cinemas.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 20 Palisades.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCoreVirtualEnterprise/PrismCorp Virtual Enterprises - Home- Complete Edition - 19 SuperMall.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 24 Yellowhead.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 14 Rainbow Babe.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 05 Rooftop Cage.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 22 Laserdisc Visions.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 27 Grid.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 23 Body.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 19 Los Santos.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 18 Photo Studio.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 12 Into Dreams.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 08 Tear.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 20 Information.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 01 Mind Access.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 21 Data Dream.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 02 Malls.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 04 Idgaf Island.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 13 Forbidden City.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 09 Liquid Air.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 11 3D Wave.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 10 Lucky Tomato.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 25 Kowloon.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 06 Tingri.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 16 Hits.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 26 Untitled.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 07 Ewing.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 15 Tree.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 17 Select.mp3
+Dec 20 11:34 : update: added Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 03 Dual.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 23 Dokdo Island Bridge.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 12 Cascadia.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 09 Tech Expo.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 05 eCooking.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 16 Outdoor Mall Odysseus.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 26 World Atlas.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 08 Sea View Gardens.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 28 Water Puzzle.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 07 Snap Pet Café.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 30 Autorun Theme.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 21 Clear Skies.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 03 Menu.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 10 Action Force Island.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 19 Hidden Observatory.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 13 Animation Studio.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 02 Welcome to ClearSkies.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 31 SeaScape.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 27 Su Casa Theme.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 25 Hillside Ridge.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 32 eCooking (Platinum Chef Version).mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 20 Geo Agent.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 01 Startup Sound.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 17 Idle Frets.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 06 Rec Virtua.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 18 Deep Jungle Trek.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 22 New Territories.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 14 Heaven's Fruit Plaza.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 29 LaserVHD.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 11 Narayani Falls.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 15 Linden Resort.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 24 Iridani.mp3
+Dec 20 11:34 : update: added Vektroid/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition/PrismCorp Virtual Enterprises - ClearSkies- Complete Edition - 04 Larry.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 04 ライブラリ.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 05 地理.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 03 花の専門店.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 07 数学.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 09 て.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 11 海底.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 01 ブート.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 08 外ギン Aviation.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 02 リサフランク420 - 現代のコンピュー.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 06 ECCOと悪寒ダイビング.mp3
+Dec 20 11:34 : update: added Vektroid/Macintosh Plus - Floral Shoppe/Macintosh Plus - Floral Shoppe - 10 月.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 03 Seafoam Island.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 08 Sushi Plaza Kaluanui.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 05 Mango - Fuji.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 07 VGM #4 -Sound Shower-.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 01 Shalom.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 09 Sushi Plaza (VGM Edit).mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 02 Color Ocean.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 04 Sushi Plaza.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 06 Om Namo Ocean Road.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 11 Jet Airways.mp3
+Dec 20 11:34 : update: added Vektroid/Vektroid - Color Ocean Road/Vektroid - Color Ocean Road - 10 Color Ocean (Rehearsal).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 14 Nimbus Lab After Hours.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 04 Drftrzz.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 08 Meditations.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 13 Pine Forest Surf.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 06 Cold Water.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 02 Timecop.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 07 Slave.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 10 Feel.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 16 Aurora 3D.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 03 Fatal.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 01 Forever.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 05 Dedication.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 09 Cast.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 12 Harem.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 11 Sky Nouveau.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition/New Dreams Ltd. - Initiation Tape- Isle of Avalon Edition - 15 Asleep In The Ice Cave.mp3
+Dec 20 11:34 : update: added Vektroid/PALACIO DEL RIO - NO TITLE/PALACIO DEL RIO - NO TITLE - 04 4THEDOUGH.mp3
+Dec 20 11:34 : update: added Vektroid/PALACIO DEL RIO - NO TITLE/PALACIO DEL RIO - NO TITLE - 05 RIDEFREE.mp3
+Dec 20 11:34 : update: added Vektroid/PALACIO DEL RIO - NO TITLE/PALACIO DEL RIO - NO TITLE - 03 PICTUREMEROLLIN.mp3
+Dec 20 11:34 : update: added Vektroid/PALACIO DEL RIO - NO TITLE/PALACIO DEL RIO - NO TITLE - 01 INTRO.mp3
+Dec 20 11:34 : update: added Vektroid/PALACIO DEL RIO - NO TITLE/PALACIO DEL RIO - NO TITLE - 02 PICKUP(THEPHONE).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 02 Consilience.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 09 Punish Your Child.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 07 Moss Head.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 03 Vacant Earth.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 08 No Flights - Tesco Man.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 06 Unity Of Knowledge (For Robin).mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 05 We Will Use The Data.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 01 I Can Still Feel It.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 11 U-Izaru.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 10 Petrified.mp3
+Dec 20 11:34 : update: added Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 04 #12.mp3
+Dec 20 11:34 : update: added /Calibre - Let Me Hold You (Original Mix)-JCGUK93vGj0.flac
+Dec 20 11:34 : update: added /J. Cole - Neighbors-FOPgg7qqlcA.flac
+Dec 20 11:34 : update: added /Morphine 'All wrong' 'Whisper'-m1iTZItBzGY.opus
+Dec 20 11:34 : update: added /Covering Alex Turner #1-265562572.mp3
+Dec 20 11:34 : update: added /elvis depressedly - holo pleasures (Full Album)-gsTGJaECheA.opus
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 10 Offertorio ft. Nicolas.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 04 Again ft. Ghostly Kisses.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 02 Break for Lovers ft. Helena Deland.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 07 Aquarelle.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 01 Morse Code ft. Odile & Geoffroy.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 08 Sad Organ.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 05 Quiet ft. Odile.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 09 Space is the place.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 03 Out in myself ft. Emmanuelle.mp3
+Dec 20 11:34 : update: added Men I Trust/Headroom/Men I Trust - Headroom - 06 Curious fish ft. Emmanuelle.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 07 Endless Strive ft. Thomas.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 06 System ft. Gabrielle & Marie-Renée.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 11 A closing word ft. James.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 10 Introit ft. Odile.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 02 Dazed ft. Geoffroy & Gabrielle.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 04 A Prayer ft. Odile.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 05 Opus.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 03 Stay True ft. Helena Deland.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 09 Extatic Memoirs ft. James & Odile.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 01 A Cycle ft. Odile.mp3
+Dec 20 11:34 : update: added Men I Trust/Men I Trust/Men I Trust - Men I Trust - 08 Nasty Ostinato Ad Nauseam Snap Bass Caron.mp3
+Dec 20 11:34 : update: added /LTJ Bukem - Atlantis--g3RUnx9svM.flac
+Dec 20 11:34 : update: added /Mac DeMarco _ 'My Kind of Woman' (OFFICIAL VIDEO)-wIuBcb2T55Q.flac
+Dec 20 11:34 : update: added /XXXTENTACION _ 1 Hour of Chill Songs-mHs64KXs7RE.ogg
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/01 tracks and noise.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/07 sleet.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/03 float.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/11 [Secret Track].mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/10 ambient lighting.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/06 hours.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/04 fade away.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/02 L.O.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/05 sweet violet.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/09 whitebait curry bread.mp3
+Dec 20 11:34 : update: added he - Three lines on Paper [2010.03.24] [192kbps]/08 answer me.mp3
+Dec 20 11:34 : update: added /Dore Mear Beon - Bimbos, Bozos, and Buffoons-PHEBhVaP1No.m4a
+Dec 20 11:34 : update: added /inhale-317703510.mp3
+Dec 20 11:34 : update: added /Mike Stud - These Days-IBRCeo-1H24.opus
+Dec 20 11:34 : update: added /Welcome to Sleepy Tea Time-294003291.flac
+Dec 20 11:34 : update: added /Down 4 Whatever (feat. SZA)-309657005.flac
+Dec 20 11:34 : update: added /Nina Simone - I wish I knew how it would feel to be free (Live in Montreux) 1976-1370813639621616.flac
+Dec 20 11:34 : update: added /The Beatles - All Ive Got To Do (pix)-3uvlu.m4a
+Dec 20 11:34 : update: added /salvia palth - i was all over her-dUegJBEusoI.opus
+Dec 20 11:34 : update: added /H3H3  Midget Matzah (full band cover and tribute)--FWJ5RMtrok.opus
+Dec 20 11:34 : update: added Some Mogolian Guy/Unknown/0 - tuvaat.mp3
+Dec 20 11:34 : update: added 2018/5 - BATHROOM LOVE-251657159.mp3
+Dec 20 11:34 : update: added 2018/Wanna Love-322221513.mp3
+Dec 20 11:34 : update: added 2018/Blazo - Inspiration Gold-VzwsZSJNe7g.ogg
+Dec 20 11:34 : update: added 2018/XXXTENTACION - WHO IS GOD-dIdsLwkRyY8.m4a
+Dec 20 11:34 : update: added 2018/december/Wordclock - St  George-8kKA545vKVk.opus
+Dec 20 11:34 : update: added 2018/december/Resident Evil Orchestra-Re1 - Peace of Mind-p-nKeAxJMGI.m4a
+Dec 20 11:34 : update: added 2018/december/Knytt Underground - Nifflas - Please Exist, I'd Appreciate It-MlzsEJNnXGk.opus
+Dec 20 11:34 : update: added 2018/december/Aphex Twin - Avril 14th (Extended)-PeLuQ6X2ixI.opus
+Dec 20 11:34 : update: added 2018/december/'Tangled Up With You'-iN0f6VYesmk.opus
+Dec 20 11:34 : update: added 2018/december/Still Woozy - Habit-aW05KAVqPDM.opus
+Dec 20 11:34 : update: added 2018/december/Mallrat - Inside Voices-I0sD0Tm7aCk.opus
+Dec 20 11:34 : avahi: Service 'Music Player @ lambda' successfully established.
+Dec 20 11:34 : update: added 2018/Masayoshi Takanaka ‎– An Insatiable High LP 1977-9cuxrkZeai8.m4a
+Dec 20 11:34 : update: added 2018/The Smiths - 'Please, Please, Please, Let Me Get What I Want'-2nxQLJmshak.opus
+Dec 20 11:34 : update: added 2018/Good Posture - Italy--_ne9SotQko.opus
+Dec 20 11:34 : update: added 2018/Low - Lullaby-XaSVkb_XLt4.opus
+Dec 20 11:34 : update: added 2018/Sofasound - 'Love Like a River' [Chillhop Summers Essentials 2018]-biccEVvDSF8.m4a
+Dec 20 11:34 : update: added 2018/no title-69300833.mp3
+Dec 20 11:34 : update: added 2018/Live! @Feria Rara #2 with ＰＥＰＳＩＭＡＮ-343850589.mp3
+Dec 20 11:34 : update: added 2018/Lullaby of Takeda [Takeda No Komoriuta], Japanese Folk Song - The Red Birds [Akai Tori]-B27yQMuTHWc.opus
+Dec 20 11:34 : update: added 2018/Covering Alex Turner #1-265562572.mp3
+Dec 20 11:34 : update: added 2018/XXXTENTACION - Tightrope (Feat. Scott James)-lS4D6F_vl40.ogg
+Dec 20 11:34 : update: added 2018/november/CALVIN HARRIS BURNS NIGHT-q9fg7snCKxE.opus
+Dec 20 11:34 : update: added 2018/november/Final Fantasy VIII - Fisherman's Horizon [HQ]-ZMYisFOaz1s.opus
+Dec 20 11:34 : update: added 2018/november/Modern Baseball - How Do I Tell A Girl I Want To Kiss Her-WMrU3f5QQR8.opus
+Dec 20 11:34 : update: added 2018/november/Matthieu Faubourg - Please, Stay-BdVlfpPAqyk.m4a
+Dec 20 11:34 : update: added 2018/november/Best VGM 1050 - Kirby's Return to Dreamland - Aurora Area (Windy Waffles)-zB-n8fx-Dig.opus
+Dec 20 11:34 : update: added 2018/november/Sora no Kiseki FC Evolution OST - A Cat Relaxing in the Sun-ur_mV3-TYUg.opus
+Dec 20 11:34 : update: added 2018/november/98 - The Legend of Zelda - Spirit Tracks - Underwater-IIaSCG8FwK8.m4a
+Dec 20 11:34 : update: added 2018/november/I Would Set Myself On Fire For You - Three-qkTBMZNqf34.ogg
+Dec 20 11:34 : update: added 2018/november/Soft Pillows-wy1qqNGz8L0.opus
+Dec 20 11:34 : update: added 2018/november/We Lost The Sea - Bogatyri-Okv8yAIYTFI.opus
+Dec 20 11:34 : update: added 2018/november/Besaid Island - Final Fantasy X Music Extended-c2SHDFt8pSc.opus
+Dec 20 11:34 : update: added 2018/november/Forest Haven - The Legend of Zelda - The Wind Waker-Z8D4WL961HE.m4a
+Dec 20 11:34 : update: added 2018/Bongbeck - Winter Sleep-kGE9uJpeLdA.opus
+Dec 20 11:34 : update: added 2018/SadBoyProlific - dead & cold-FpnC8kpD-bI.m4a
+Dec 20 11:34 : update: added 2018/The Neighbourhood - Wiped Out! (Audio)-Z3UCVQIjAJ8.opus
+Dec 20 11:34 : update: added 2018/You Blew It! - 'In The Garage'-154698007.mp3
+Dec 20 11:34 : update: added 2018/◤Menge.99の音◢ - ULTRA.LOVE [5nipp3t]-263616028.mp3
+Dec 20 11:34 : update: added 2018/The Doobie Brothers - What a Fool Believes (with lyrics)-g0_FvK51wOQ.ogg
+Dec 20 11:34 : update: added 2018/LiL PEEP - Better off(Dying)(Lyrics)-bM9359yfk8c.opus
+Dec 20 11:34 : update: added 2018/Elliptical Illuminations-10806280.mp3
+Dec 20 11:34 : update: added 2018/september/nate b. - come to the crib u know where i live-VQALPqGR2ag.m4a
+Dec 20 11:34 : update: added 2018/september/Selfsteam - Lost Coast [NG003]-xM_qSm8uETM.m4a
+Dec 20 11:34 : update: added 2018/september/Christian Besa Wright - Window-ugonN9tB9Y0.opus
+Dec 20 11:34 : update: added 2018/september/No Swoom - EP 1 (Full EP)-qWg3h_EERRI.opus
+Dec 20 11:34 : update: added 2018/september/Bonobo  - Cirrus [Official Video]-WF34N4gJAKE.opus
+Dec 20 11:34 : update: added 2018/september/Hybrid Minds - Touch (ft. Tiffani Juno)-4AKSpPkZAuE.opus
+Dec 20 11:34 : update: added 2018/september/The Beach Bullies - Femme Fatale-MQvf4ahIYIU.m4a
+Dec 20 11:34 : update: added 2018/september/Thrift Shop Vitamin String Quartet (Macklemore & Ryan Lewis)-EgOzGxcwSDo.opus
+Dec 20 11:34 : update: added 2018/september/Soleil Vert - Mirage-zF8og_i8LgA.opus
+Dec 20 11:34 : update: added 2018/september/Ski Boy - Woozy-OrHhjgtbP9w.m4a
+Dec 20 11:34 : update: added 2018/september/Harley Alexander - Nothin to learn-WunjyoO8-uY.m4a
+Dec 20 11:34 : update: added 2018/september/Silicon Estate - If everything was good (Feat. Mimi Bay)-QVDyZvEyVek.opus
+Dec 20 11:34 : update: added 2018/september/Captain Scott - I'm Telling You-cgyQJexApwI.m4a
+Dec 20 11:34 : update: added 2018/september/Buzzy Lee - Coolhand-oBj4HWIdMpQ.m4a
+Dec 20 11:34 : update: added 2018/september/Kid Trails - Naming-_eWuSu42R0c.m4a
+Dec 20 11:34 : update: added 2018/september/Hala - More Than Anything-8EKaxHzmieE.opus
+Dec 20 11:34 : update: added 2018/september/Math + Rap = Mathap Math-hop Introducing - Catbamboo-F81-7D91Ylk.opus
+Dec 20 11:34 : update: added 2018/september/JABOBEE - ALL ALONE-EYf45cCf1aU.opus
+Dec 20 11:34 : update: added 2018/september/Mars Andaras (M_A_R_S) - When I Think About U (Jealous)-LTN-Jbr-GZs.opus
+Dec 20 11:34 : update: added 2018/september/nate b. - naked.-LxMfjcMzFU4.m4a
+Dec 20 11:34 : update: added 2018/september/MARINA AND THE DIAMONDS _ PART 4 - ♡ 'PRIMADONNA' ♡-Gj5L9SYhoSE.mp3
+Dec 20 11:34 : update: added 2018/i think you're alright (jay som cover)-344356516.mp3
+Dec 20 11:34 : update: added 2018/03 - 21 Letters-192606218.mp3
+Dec 20 11:34 : update: added 2018/NeKoMaJiN Vs-119065674.mp3
+Dec 20 11:34 : update: added 2018/Takeda No Komoriuta 1969 竹田の子守唄-rauS1ujGLXg.ogg
+Dec 20 11:34 : update: added 2018/Kiasmos - Thrown-cr4bsdoZKxQ.opus
+Dec 20 11:34 : update: added 2018/The neighbourhood - Daddy Issues (slowed down)-_98kXRWT_gI.opus
+Dec 20 11:34 : update: added 2018/august/Aso - Sun In My Face-IAc3VX1TZGc.m4a
+Dec 20 11:34 : update: added 2018/august/Engelwood - Gnomo.mp3
+Dec 20 11:34 : update: added 2018/august/RICEWINE - FLOOD (FULL)-Skt0S-gjTVs.opus
+Dec 20 11:34 : update: added 2018/august/Engelwood - Sea Song.mp3
+Dec 20 11:34 : update: added 2018/august/Steve Reich - Music for Mallet Instruments, Voices and Organ (1974).mp3
+Dec 20 11:34 : update: added 2018/august/wavy id - bummerpop vol2 (full album)-UeXsY9bC7D0.opus
+Dec 20 11:34 : update: added 2018/august/Mica Levi - Love (Under the Skin Original Motion Picture Soundtrack)-Z_Cc20I-maM.opus
+Dec 20 11:34 : update: added 2018/august/Elsiane - Mend (To Fix, To Repair)-4m70sdq1Rnk.opus
+Dec 20 11:34 : update: added 2018/august/Men I Trust - Seven-GuNrN3zKTxw.opus
+Dec 20 11:34 : update: added 2018/JCult - A Beacon School-NhlvSLJaOfg.m4a
+Dec 20 11:34 : update: added 2018/Dire Straits - Romeo And Juliet-rC95MEenIxA.m4a
+Dec 20 11:34 : update: added 2018/Special Stage - Sonic The Hedgehog (SBS#1)-304970347.mp3
+Dec 20 11:34 : update: added 2018/Daso - Meine-h7qTI6Njp9g.opus
+Dec 20 11:34 : update: added 2018/☆lil peep☆ _ u said (lyrics) ♡-LfeRoTCUDgo.opus
+Dec 20 11:34 : update: added 2018/Viper - That Baller Out Your Best Side (Instrumental)-1Xp-me48F7o.m4a
+Dec 20 11:34 : update: added 2018/Viper Beat Loops '16-UUBjsCCw3dk.opus
+Dec 20 11:34 : update: added 2018/Still Corners - The Trip-V5YOhcAof8I.opus
+Dec 20 11:34 : update: added 2018/☆LiL PEEP☆ - nineteen (legendado)--zrbQazF5Tg.opus
+Dec 20 11:34 : update: added 2018/I Don't Believe It - A Beacon School-3bnELJLjRQI.m4a
+Dec 20 11:34 : update: added 2018/lil peep x lil tracy - white wine-wckAAh-V428.opus
+Dec 20 11:34 : update: added 2018/Moiré Fringes - Home-346800565.mp3
+Dec 20 11:34 : update: added 2018/submarine-398874249.mp3
+Dec 20 11:34 : update: added 2018/Nice Song-338544883.mp3
+Dec 20 11:34 : update: added 2018/♫ XXXTENTACION - Angel-kX3pIVC760E.opus
+Dec 20 11:34 : update: added 2018/☆LiL PEEP☆ - walk away as the door slams (legendado)-P2WeipIEDDw.opus
+Dec 20 11:34 : update: added 2018/A Beacon School - It's Late-3_11CVfRLbA.opus
+Dec 20 11:34 : update: added 2018/Broken Social Scene - 'Sweetest Kill' Arts & Crafts-WVe70xdcclU.m4a
+Dec 20 11:34 : update: added 2018/october/New Rose - Plenty of flowers-VXRCql0GgL4.opus
+Dec 20 11:34 : update: added 2018/october/Aberdeen-pUgu4K1ZUAU.opus
+Dec 20 11:34 : update: added 2018/october/ondi vil - close your eyes-tnSq41Tvfps.opus
+Dec 20 11:34 : update: added 2018/october/Odiolab - Medieval [Full Album]-Po8T-xhKPyc.opus
+Dec 20 11:34 : update: added 2018/october/Waves - A Chillwave Mix-kwLTw8F8yN8.opus
+Dec 20 11:34 : update: added 2018/october/ＬＯＶＥ ＴＲＩＰ-gqmreIjemeI.opus
+Dec 20 11:34 : update: added 2018/october/Mosaik - Noa Lake-uEvHKOQqwtM.opus
+Dec 20 11:34 : update: added 2018/october/ＷＩＴＨ ＹＯＵ-Ji1tdwOeVQI.opus
+Dec 20 11:34 : update: added 2018/october/IT TAKES TIME (feat. Colde) -LOCO covered by 1345 onethreeforfive-GbzBK9ddCCA.m4a
+Dec 20 11:34 : update: added 2018/october/Wild Nothing - The Blue Dress-YZAS2-U3Fqs.ogg
+Dec 20 11:34 : update: added 2018/october/Switch Lanes-YOpRwA8EM6I.opus
+Dec 20 11:34 : update: added 2018/october/Mischief Brew - Punx Win! (Acoustic)-Dke1PCxevp0.opus
+Dec 20 11:34 : update: added 2018/october/ESPRIT 空想  - 200% Electronica-hMjyjwYIQ0g.opus
+Dec 20 11:34 : update: added 2018/october/The Best of Christian Löffler-XNJTVLFotr0.opus
+Dec 20 11:34 : update: added 2018/october/Her's - Cool With You-L2uT0yivlrw.opus
+Dec 20 11:34 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 11:34 : update: added 2018/october/ForgottenTemples.m4a
+Dec 20 11:34 : update: added 2018/october/Sébastien Tellier - La Ritournelle (Gilligan Moss Mix)-3TRCYxk0rSQ.opus
+Dec 20 11:34 : update: added 2018/october/ＤＲＥＡＭＳ-j7GeEt9yBRA.opus
+Dec 20 11:34 : update: added 2018/Chance The Rapper, Daniel Caesar, Rex Orange County - Forever Always (Prod. & Dir. Peter CottonTale-MTpZDT70TcY.opus
+Dec 20 11:34 : update: added /Slowdive - Sleep-6ey4yAgLZlw.opus
+Dec 20 11:34 : update: added /Shiloh [1 Hour Mix]-sCdGp4oHNQc.opus
+Dec 20 11:34 : update: added /PEACH PIT - peach pit-PRXtbLqIx04.opus
+Dec 20 11:34 : update: added /The Beach Boys [Pet Sounds] - Don't Talk (Put Your Head On My Shoulders) ((Stereo Remaster))-gikGLzkKElw.flac
+Dec 20 11:34 : update: added /The Beach Boys - God Only Knows (Lyrics via Description) (HQ)-EkPy18xW1j8.flac
+Dec 20 11:34 : update: added /Aatsi - Funke-Uv3jIgQiNKk.m4a
+Dec 20 11:34 : update: added /甘いイチゴ☆ラブくん-253714211.flac
+Dec 20 11:34 : update: added /Netsky - Memory Lane-cG7cRDcPY3k.opus
+Dec 20 11:34 : update: added /te' - 音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄。-GFpmJpVPVe4.flac
+Dec 20 11:34 : update: added /for_audio_test.opus
+Dec 20 11:34 : update: added /Burial - Stolen Dog-yIAh5tETh1c.flac
+Dec 20 11:34 : update: added /Pennines - Whisky Tango Foxtrot Lima Oscar Lima-3m-hEsFwuNA.ogg
+Dec 20 11:34 : update: added /King Crimson - Starless (OFFICIAL)-OfR6_V91fG8.opus
+Dec 20 11:34 : update: added /Les Rythmes Digitales - Sometimes-WWpzeK2ZiaA.ogg
+Dec 20 11:34 : update: added /Mac DeMarco - My Kind of Woman-EwZnSXwGsS4.opus
+Dec 20 11:34 : update: added /DZZ - Her Loop ft. danika (Maxo Psychicmix)-283207504.flac
+Dec 20 11:34 : update: added /Todd Terje - Inspector Norse-ebjXsc0UjdQ.flac
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 12 Paul ft. Johnny U.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 14 Years-Alone.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 04 Pigeonfeet.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 01 Somebody Please.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 07 100- ft. King Carter.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 05 GREED w- Standing on The Corner.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 06 GREEDY ft. Jesse Brotter.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 10 Rainforest.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 02 Hunger.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 16 ROCKBOTTOM-PEACE TO COME.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 15 VICTORY LAB ft. Mal Devisa & King Carter.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 13 awalkingharlem ft. King Carter.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 09 Brick Blues.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 11 STANDOUT ft. Wiki & Chip Skylark.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 03 armour.mp3
+Dec 20 11:34 : update: added MIKE/MAY GOD BLESS YOUR HUSTLE/MIKE - MAY GOD BLESS YOUR HUSTLE - 08 FOREVER FIND FLIGHT.mp3
+Dec 20 11:34 : update: added MikeIrish/Mike Irish - The Joy Of Motion - 04 At Sea.mp3
+Dec 20 11:34 : update: added MikeIrish/Mike Irish - The Joy Of Motion - 01 A Grain Of Salt.mp3
+Dec 20 11:34 : update: added MikeIrish/Mike Irish - The Joy Of Motion - 05 Bouquet.mp3
+Dec 20 11:34 : update: added MikeIrish/Mike Irish - The Joy Of Motion - 02 With Colors.mp3
+Dec 20 11:34 : update: added MikeIrish/Mike Irish - The Joy Of Motion - 03 Atticus.mp3
+Dec 20 11:34 : update: added /london 2014-fOE3rDkMrKM.m4a
+Dec 20 11:34 : update: added /Yellow Days - Harmless Melodies (Full Album)-AejUtBNzyOI.flac
+Dec 20 11:34 : update: added /Gorillaz & Daniela Andrade – Feel Good Inc. (2nd Room Remix)-PJO3oIG82xI.flac
+Dec 20 11:34 : update: added /Slime Girls - Vacation Wasteland (Full Album) Chiptune-SvfeL9vbfd4.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/09 New Dress.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/07 Moving On.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/03 Not Fair.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/05 Underwater Trees.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/04 Kitchen Sink.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/06 Passion.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/01 Get Up (Introduction).flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/10 Liking All Your Posts.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/02 Snacks.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/11 Speed Dial.flac
+Dec 20 11:34 : update: added PIG - Silk (2018) FLAC/08 Slow Down.flac
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Only Trains Will Bump In The Night.m4a
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 03 Trans-Pacific Ho-Down(Alive song).mp3
+Dec 20 11:34 : update: added C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 04 Extra song that is so garbage if you've made it here you're a true friend. I can kinda shred tho.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/12. Airport Blues.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/07. Serie Noire.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/04. The Afternoon Child.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/06. Antwerp.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/05. A Smile In Sofia.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/11. Atelier.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/02. Tusk.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/01. Kepesh.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/03. I Sing The Body Electric.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/10. Kiss Tomorrow Goodbye.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/09. Yesterday's Child.mp3
+Dec 20 11:34 : update: added Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/08. Reprise.mp3
+Dec 20 11:34 : update: added /Phaeleh - Afterglow (feat. Soundmouse)-lh4brL7PC2E.opus
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 10 Libtard Anthem (feat. Freaky).mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 09 Germs.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 08 DD Form 214 (feat. Bobbi Rush).mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 19 Curb Stomp.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 04 Dayum.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 17 Rainbow Six (feat. Yung Midpack).mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 01 1539 N. Calvert.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 18 1488.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 06 My Thoughts on Neogaf Dying (Radio Edit).mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 16 I Cannot Fucking Wait Until Morrissey Dies.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 02 Real Nega.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 07 Rock N Roll Is Dead.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 13 Whole Foods.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 12 DJ Snitch Bitch Interlude.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 03 Thug Tears.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 14 Macaulay Culkin.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 05 Baby I'm Bleeding.mp3
+Dec 20 11:34 : update: added JPEGMAFIA/JPEGMAFIA - Veteran - 15 Williamsburg.mp3
+Dec 20 11:34 : update: added Bepop/Unknown/0 - Space Cowboy.mp3
+Dec 20 11:34 : update: added /Mac DeMarco - Chamber of Reflection-NY8IS0ssnXQ.opus
+Dec 20 11:34 : update: added Single Songs/11 - Red Moon Lagoon.mp3
+Dec 20 11:34 : update: added Single Songs/11  - We're Going Home.mp3
+Dec 20 11:34 : update: added Single Songs/Glenn Beck (Baby Blood Theft).mp3
+Dec 20 11:34 : update: added Single Songs/04-caspian-halls_of_the_summer.mp3
+Dec 20 11:34 : update: added Single Songs/02 - Viva Belgrado - De Carne y Flor.mp3
+Dec 20 11:34 : update: added /Here Today (The Stereo Mix) (1996 Digital Remaster)-v0T-EQqzm5Q.opus
+Dec 20 11:34 : update: added /BLUE - Mai Yamane-0lXb4gLL5Nk.ogg
+Dec 20 11:34 : update: added /線形_Linear-319428716.mp3
+Dec 20 11:34 : update: added /The Beach Boys [Pet Sounds] - God Only Knows (Stereo Remaster)-Ybvruzd3XE0.flac
+Dec 20 11:34 : update: added Mental Architects/Unknown/0 - Go!.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 11 no name Feat. Yaw & Adam Ness.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 06 Regal.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 04 Window Feat. Phoelix.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 10 With you.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 05 Don't forget about.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 08 Ace Feat. Smino & Saba.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 03 Prayer Song Feat. Adam Ness.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 02 Blaxploitation.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 09 Part of me Feat. Phoelix & Benjamin Earl Turner.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 01 Self.mp3
+Dec 20 11:34 : update: added Noname/Room 25/Noname - Room 25 - 07 Montego Bae Feat. Ravyn Lenae.mp3
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 04 Notches.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 13 Do You Have PPE For Self-Esteem-.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 05 Crywank Are Posers.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 07 “Who is Thomas Saunders and why is he significant in your writings-”.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 06 Obsessive Muso With No Friends.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 10 Deep Down I'm American Werewolf.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 08 Only Everyone Can Judge Me.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 17 I'm A Cliché.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 14 This Song Title Was Too Long (So Now It's Shorter).flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 15 Leech Boy.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 01 Memento Mori.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 03 If I Were You I'd Be Throwing Up.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 18 Just A Snail.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 09 GB Eating GB Whilst Listening To GB.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 02 Song For A Guilty Sadist.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 12 I am A Familiar Creak In Your Floorboards.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 11 Waste.flac
+Dec 20 11:34 : update: added Crywank/Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid - 16 I Am Shit.flac
+Dec 20 11:34 : update: added /Flying Lotus - 1983 [FULL ALBUM]-jY9wzoJvqYs.opus
+Dec 20 11:34 : update: added HangingTreeAlgorithm/Eclipse/Hanging Tree Algorithm - Eclipse - 01 Eclipse 1.mp3
+Dec 20 11:34 : update: added HangingTreeAlgorithm/Eclipse/Hanging Tree Algorithm - Eclipse - 02 Eclipse 2.mp3
+Dec 20 11:34 : update: added HangingTreeAlgorithm/Eclipse/Hanging Tree Algorithm - Eclipse - 03 Four Point Seven Point Two.mp3
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 11 Bonnie (Rhythm & Melody).flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 03 What Got In The Way.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 09 All That It Ever Was.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 07 Nightlight Girl.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 08 Breeze.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 06 Pure Devotion.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 01 Super Natural.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 10 Living Small.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 05 Curiosity.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 02 Sunshine Type.flac
+Dec 20 11:34 : update: added Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 04 Butterfly Dream.flac
+Dec 20 11:34 : update: added Soul Coughing/Unknown/0 - Maybe I'll Come Down.mp3
+Dec 20 11:34 : update: added /Major Lazer - Know No Better x Martin Garrix - There For You x Kayoh - Find A Way _ Mashup-m8tMA6uRWw8.flac
+Dec 20 11:34 : update: added Attic Abasement/06.ogg
+Dec 20 11:34 : update: added Attic Abasement/09.ogg
+Dec 20 11:34 : update: added Attic Abasement/05.ogg
+Dec 20 11:34 : update: added Attic Abasement/03.ogg
+Dec 20 11:34 : update: added Attic Abasement/07.ogg
+Dec 20 11:34 : update: added Attic Abasement/10.ogg
+Dec 20 11:34 : update: added Attic Abasement/01.ogg
+Dec 20 11:34 : update: added Attic Abasement/04.ogg
+Dec 20 11:34 : update: added Attic Abasement/02.ogg
+Dec 20 11:34 : update: added Attic Abasement/08.ogg
+Dec 20 11:34 : update: added /Glue Trip - Glue Trip (2015) Full Album-NwnV7-Y8gYU.flac
+Dec 20 11:34 : update: added /The Pixies - Hey HQ (Vinyl Recording)-MDACd-ShjHk.opus
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/10. Continue.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/09. Feel This Way (feat. Giraffage).flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/01. Sleepy Tea.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/03. Berry Streets (feat. GoYama).flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/08. The Space.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/04. No Signal.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/05. Checkpoint.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/06. Nayhoo (feat. Masego & Lophile).flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/11. Glitch (feat. ROM).flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/12. Wave Bounce.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/07. Here and There.flac
+Dec 20 11:34 : update: added Chon - Homey (2017) FLAC/02. Waterslide.flac
+Dec 20 11:34 : update: added beats/i p p i - Overcast-pF_hGmXFpGk.m4a
+Dec 20 11:34 : update: added beats/kudasai - the girl i haven't met-XDpoBc8t6gE.opus
+Dec 20 11:34 : update: added beats/now, i see (from dream easy autumn's end tape)-362292134.mp3
+Dec 20 11:34 : update: added beats/joan of arc.-430404600.mp3
+Dec 20 11:34 : update: added beats/i have love for everyone besides myself.-426948021.mp3
+Dec 20 11:34 : update: added /Homeshake - Haters-gfbrcQ26dtA.opus
+Dec 20 11:34 : update: added /CIANO - 月明かり (moonlight.)-y-5nJdo_V_E.opus
+Dec 20 11:34 : update: added /TV Blonde - Ocarina-enHgdTrKChs.opus
+Dec 20 11:34 : update: added /Post Malone ft. Quavo - Congratulations x Drake - Passionfruit _ Flipboitamidles Mashup-qWztHiW8G0Q.flac
+Dec 20 11:34 : update: added /Mount Kimbie - Made To Stray-7SfFInoSotg.flac
+Dec 20 11:34 : update: added Nenem/Unknown/0 - Black & Gold.mp3
+Dec 20 11:34 : update: added /light blending in - you are enough-8HQ7_2ZJp7g.opus
+Dec 20 11:34 : update: added /ABSRDST & Diveo - We're Beautiful (Maxo Icemix) [NEST HQ Premiere]-250056607.flac
+Dec 20 11:34 : update: added 2019/June/ID Cℎίℯƒ - Honey-5yQJM2qbU7k.opus
+Dec 20 11:34 : update: added 2019/June/RMZ - Music In The Village-MV5Dd4fRmgQ.opus
+Dec 20 11:34 : update: added 2019/June/Oliver Cheatham, Get Down Saturday Night (Funk 1983) Full HD !-uUqcBwQjj4k.opus
+Dec 20 11:34 : update: added 2019/February/Interim (Remix)-I0q30P2OyrI.opus
+Dec 20 11:34 : update: added 2019/February/Challenger Deep _ Immersive (Official Music Video)-Kvcouh96H_s.m4a
+Dec 20 11:34 : update: added 2019/February/My Favourite Tune (full album).opus
+Dec 20 11:34 : update: added 2019/February/Os Tincoãs - Deixa A Gira Girar (j g b edit)-3xt8Mp8oWzc.opus
+Dec 20 11:34 : update: added 2019/February/James Brown People,get up and drive your funky soul-_BrITP7DZjE.opus
+Dec 20 11:34 : update: added 2019/February/[Lo-Fi] Pokémon - Eterna Forest (Diamond_Pearl_Platinum) {Beat Mix}-zxPbwO4q4DQ.m4a
+Dec 20 11:34 : update: added 2019/February/Roy Hargrove Quintet - Strasbourg St Denis-CQ6dbUmU__o.opus
+Dec 20 11:34 : update: added 2019/February/Chet Baker - Tenderly-H6mfWun73vI.m4a
+Dec 20 11:34 : update: added 2019/February/Lonnie Liston Smith - Summer Nights-u_M9NvaNxoI.opus
+Dec 20 11:34 : update: added 2019/February/Kiefer - What a Day - Dungeon Sessions-OhqZh_c-9aI.m4a
+Dec 20 11:34 : update: added 2019/February/BINKBEATS - Little Nerves feat. Niels Broos-zfpSn7ZYC0A.opus
+Dec 20 11:34 : update: added 2019/November/Serayu Jingga - Seraya Alam (Demo Version)-144318946.mp3
+Dec 20 11:34 : update: added 2019/November/Coach Kukoc's Croatian Couscous-7370982.mp3
+Dec 20 11:34 : update: added 2019/November/Siddhartha - Rabagiya (Single)-285611960.mp3
+Dec 20 11:34 : update: added 2019/November/SERAYU JINGGA - SEMESTA-266873930.mp3
+Dec 20 11:34 : update: added 2019/December/Penpal - 'Times and Dates'-QZXfBLp7F8s.opus
+Dec 20 11:34 : update: added 2019/December/Piazzolla Cafe 1930 Viola and Guitar (Live)-2wM8ixzJjhM.opus
+Dec 20 11:34 : update: added 2019/December/Astor Piazzolla Le Grand Tango (Viola)-0z2hACTAcUU.opus
+Dec 20 11:34 : update: added 2019/December/Vyder - Ezekiel Music Video-8UbHYtOeAx4.opus
+Dec 20 11:34 : update: added 2019/May/Brambles - Half-Gramme Holiday-82899845.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 14 Easter Island.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 11 Completely Still.mp3
+Dec 20 11:34 : update: added 2019/May/Aphex Twin   Stone In Focus-UFttpybk1zw.opus
+Dec 20 11:34 : update: added 2019/May/The Cinematic Orchestra - To Build A Home (Tale Cooper Edit)-9nzl6e9zw7c.opus
+Dec 20 11:34 : update: added 2019/May/HOME .opus
+Dec 20 11:34 : update: added 2019/May/Cookin In Hateno Village-319484288.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 06 Handshake.mp3
+Dec 20 11:34 : update: added 2019/May/Animal Crossing New Leaf Title Theme - Lo - Fi Hip Hop Remix-361886303.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 15 Goodnight Bean.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 03 Chicken Soup.mp3
+Dec 20 11:34 : update: added 2019/May/HOME - PEE IS STORED INTHEBALLS - 10 Joy Division Shirt.mp3
+Dec 20 11:34 : update: added 2019/May/Occupanther & Matthias Lindermayr - Kenny-267658733.mp3
+Dec 20 11:34 : update: added 2019/January/Hung up on my baby.opus
+Dec 20 11:34 : update: added 2019/January/I didn't Know.opus
+Dec 20 11:34 : update: added 2019/January/Blurred (Bonobo Remix).opus
+Dec 20 11:34 : update: added 2019/March/Osvaldo - Fly Like Birds-4YyA7YDybvE.m4a
+Dec 20 11:34 : update: added 2019/March/Alien.opus
+Dec 20 11:34 : update: added 2019/March/Change your Mind.opus
+Dec 20 11:34 : update: added 2019/March/KOKOROKO - ABUSEY JUNCTION _ WE OUT HERE-tSv04ylc6To.opus
+Dec 20 11:34 : update: added 2019/March/Zoetrope.ogg
+Dec 20 11:34 : update: added 2019/March/Fake Laugh - Better For Me-2luE8Q4XXKA.opus
+Dec 20 11:34 : update: added 2019/March/Broke Boy.opus
+Dec 20 11:34 : update: added 2019/March/Take U To KFC.opus
+Dec 20 11:34 : update: added 2019/March/Ignore the Glitches.opus
+Dec 20 11:34 : update: added 2019/March/Gerry Mulligan - Tell Me When-pftBMhyEKzg.m4a
+Dec 20 11:34 : update: added 2019/March/The Great Sea (Wind Waker) - Zelda Series for Guitar-XZueQWgc0Ic.m4a
+Dec 20 11:34 : update: added 2019/March/It Gets Funkier but every time it gets funkier, it gets funkier.opus
+Dec 20 11:34 : update: added 2019/March/Mirror - On, Then, In (2007) - Full Album-IXZxrlvXWP4.opus
+Dec 20 11:34 : update: added 2019/March/Turquoise Hexagon Sun.m4a
+Dec 20 11:34 : update: added 2019/March/Preludium and Allegro.opus
+Dec 20 11:34 : update: added 2019/March/Cloudchord x Soul Food Horns – Bopatron-6YW_siolBF0.opus
+Dec 20 11:34 : update: added 2019/March/Just Like My.m4a
+Dec 20 11:34 : update: added 2019/March/Spire – Petal Falls-GbI4gw8D5kE.opus
+Dec 20 11:34 : update: added 2019/March/Nobody.opus
+Dec 20 11:34 : update: added 2019/March/Funkaholic.opus
+Dec 20 11:34 : update: added 2019/October/Olafur Arnalds & Nils Frahm - a2 (Max Cooper remix)-dfKOUrTqvlA.opus
+Dec 20 11:34 : update: added 2019/July/Bonobo - Animals-BDHm7gMMPPg.opus
+Dec 20 11:34 : update: added 2019/July/Bonobo  - Linked (Official Audio)-0W-a11Tdk7Y.opus
+Dec 20 11:34 : update: added 2019/April/Bread.opus
+Dec 20 11:34 : update: added 2019/April/Second Sun.opus
+Dec 20 11:34 : update: added 2019/April/Left at the Neon Light.opus
+Dec 20 11:34 : update: added 2019/April/Riptide.m4a
+Dec 20 11:34 : update: added 2019/April/deaddogstwo.opus
+Dec 20 11:34 : update: added 2019/April/Persistent.opus
+Dec 20 11:34 : update: added 2020/Sept/Thom Yorke - Unmade (instrumental cover)-534383691.mp3
+Dec 20 11:34 : update: added 2020/Sept/Django Reinhardt - Djangology-YPG1OnOrhis.opus
+Dec 20 11:34 : update: added 2020/Sept/Dubliners (2008)-38529922.mp3
+Dec 20 11:34 : update: added 2020/Feb/heklAa - 12 Eden-YVJ4YHhzykw.opus
+Dec 20 11:34 : update: added 2020/Feb/Summer Salt - Little Chimmy-4fO4shBuknU.opus
+Dec 20 11:34 : update: added 2020/June/Tarrey Town - The Legend of Zelda - Breath of the Wild Soundtrack-SqhZbK6RI8g.opus
+Dec 20 11:34 : update: added 2020/June/E.S.T. Esbjorn Svensson Trio - Jazzwoche Burghausen 2004-XhdlVXxp1nw.opus
+Dec 20 11:34 : update: added 2020/June/Rappin 4 Tay - I'll Be Around-K8gk7bWu5Jg.opus
+Dec 20 11:34 : update: added 2020/June/Tarrey Town (The Legend of Zelda - Breath of the Wild OST)-2pGapEXcn30.opus
+Dec 20 11:34 : update: added 2020/Oct/Jean Jean - With Mountains As Witness-221026430.mp3
+Dec 20 11:34 : update: added 2020/Oct/Toe - Past and Language-81893083.mp3
+Dec 20 11:34 : update: added 2020/Oct/PG Films-117499723.mp3
+Dec 20 11:34 : update: added 2020/Oct/Polyphia _ G.O.A.T. (Official Music Video)-9_gkpYORQLU.opus
+Dec 20 11:34 : update: added 2020/Oct/This Town Needs Guns - A Different Kind of Tall (small)-74459150.mp3
+Dec 20 11:34 : update: added 2020/Oct/Jazz Math Rock Thing (mastered)-170875929.mp3
+Dec 20 11:34 : update: added 2020/Oct/ff7cut.mp3
+Dec 20 11:34 : update: added 2020/Oct/Na pět-206995257.mp3
+Dec 20 11:34 : update: added 2020/Oct/LITE - 'Echolocation'-163998424.mp3
+Dec 20 11:34 : update: added 2020/Oct/FF7RMaintheme.opus
+Dec 20 11:34 : update: added 2020/Oct/White Lies (feat. Jenni Potts)-166946567.mp3
+Dec 20 11:34 : update: added 2020/Oct/ff7cut.opus
+Dec 20 11:34 : update: added 2020/Oct/Satellite (feat. Ellie Price)-185160510.mp3
+Dec 20 11:34 : update: added 2020/Oct/Town Portal - Uncle Genie-57535718.mp3
+Dec 20 11:34 : update: added 2020/Oct/Climbing A Wall-204036691.mp3
+Dec 20 11:34 : update: added 2020/Oct/Unfair Treaty-228843335.mp3
+Dec 20 11:34 : update: added 2020/Oct/This Town Needs Guns - Gibbon-184989470.mp3
+Dec 20 11:34 : update: added 2020/Oct/Icronic-331749420.mp3
+Dec 20 11:34 : update: added 2020/Oct/Marsh Partition-228843246.mp3
+Dec 20 11:34 : update: added 2020/Oct/ff7rmain.opus
+Dec 20 11:34 : update: added 2020/Oct/NO.SLEEP - Mix.10-220839117.mp3
+Dec 20 11:34 : update: added 2020/Oct/FINAL FANTASY 7 Remake - Tifa's Theme - Violin and Guitar cover-aRwoVGDOXDs.m4a
+Dec 20 11:34 : update: added 2020/Oct/Aerith's' Theme (from 'Final Fantasy VII') Cello and Piano-ABSRgPwBYo8.opus
+Dec 20 11:34 : update: added 2020/Oct/ff7rmain.mp3
+Dec 20 11:34 : update: added 2020/Oct/Final Fantasy VII - Jazz version-ew_JVr7qaTo.opus
+Dec 20 11:34 : update: added 2020/Oct/Bunda Internacionale-115581127.mp3
+Dec 20 11:34 : update: added 2020/Oct/latinos....'Yo voy A votar por Donald Trump' Temazo!!!!-QNMsw9oADgM.opus
+Dec 20 11:34 : update: added 2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus
+Dec 20 11:34 : update: added 2020/Oct/03 - Little Bubble, Where Are You Going-3745386.mp3
+Dec 20 11:34 : update: added 2020/Oct/ff7rmain2.mp3
+Dec 20 11:34 : update: added 2020/Oct/Never Went-649728806.mp3
+Dec 20 11:34 : update: added 2020/May/The Pillows - Beautiful morning with you (FLCL OST No. 3) [HQ]-wj5hmkhUntM.opus
+Dec 20 11:34 : update: added 2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3
+Dec 20 11:34 : update: added 2020/Nov/Kirby  Triple Deluxe Final Boss Theme 2 [星のカービィトリプルデラックス ラスボスBGM2]-136522350.mp3
+Dec 20 11:34 : update: added 2020/Nov/Night in Bangladesh-703987378.mp3
+Dec 20 11:34 : update: added 2020/Nov/Kitt'Indie Space Disco Triangle-129278244.mp3
+Dec 20 11:34 : update: added 2020/Nov/Zhea Erose - Novemdeca [in Just Intonation]-ZIn6uis5duw.opus
+Dec 20 11:34 : update: added 2020/Nov/Fable 1, 2 and 3's Most Peaceful and Calm Songs (Albions Greatest Hit's)-9_9_HxGl844.opus
+Dec 20 11:34 : update: added 2020/Nov/Zhea Erose - Prayer Room [31-EDO, 12-EDO, Just]-7RLwlGpyHz0.opus
+Dec 20 11:34 : update: added 2020/Nov/Wild O (http -_cabbi.bo_DRAGONFISH)-187973219.mp3
+Dec 20 11:34 : update: added 2020/Nov/fable and chill-Dgxcij40me4.opus
+Dec 20 11:34 : update: added 2020/Nov/Zhea Erose - Spiritualistica [just intonation]-3iWRlf3wrPs.opus
+Dec 20 11:34 : update: added 2020/Nov/Water Temple - Oregon Eclipse Festival 2017 (Ambient Set)-341181351.mp3
+Dec 20 11:34 : update: added 2020/Nov/You Will Know Our Names-196047263.mp3
+Dec 20 11:34 : update: added 2020/Nov/Tongue Wrong Song-126421164.mp3
+Dec 20 11:34 : update: added 2020/Nov/hoteldecebal.mp3
+Dec 20 11:34 : update: added 2020/Nov/Soul Calibur VI OST City Ruins Soul NieR Automata-547220730.mp3
+Dec 20 11:34 : update: added 2020/Nov/Daft Punk - Horizon  (Henry Saiz Just wanted you to stay Remix)-115375991.mp3
+Dec 20 11:34 : update: added 2020/Nov/aebee-204596596.mp3
+Dec 20 11:34 : update: added 2020/Nov/Bravely Second- End Layer OST - Battle Of Providence [HQ]-251303153.mp3
+Dec 20 11:34 : update: added 2020/Nov/Tron Legacy   Soundtrack OST   15 Solar Sailer   Daft Punk-124387576.mp3
+Dec 20 11:34 : update: added 2020/Nov/14 The Mists Cleared-251289045.mp3
+Dec 20 11:34 : update: added 2020/Jan/Marcy Playground - Sex And Candy (Official Video)--KT-r2vHeMM.opus
+Dec 20 11:34 : update: added 2020/April/Final Fantasy VII ~ Fighting Metal Remix ♫-Lszli4Wtiig.opus
+Dec 20 11:34 : update: added 2020/April/Carpenter Brut - Trilogy.ogg
+Dec 20 11:34 : update: added 2020/April/Final Fantasy 7 Battle Theme - Metal Cover-WlJ9UBfnApk.opus
+Dec 20 11:34 : update: added 2020/April/Crisis Core Final Fantasy VII Music - Why (Guitar Version)-qX1CfvJpr4k.opus
+Dec 20 11:34 : update: added /What Redbone would sound like if it was vaporwave-UYLpW2uhVDc.opus
+Dec 20 11:34 : update: added /The Dead South - In Hell I'll Be In Good Company [Official Music Video]-B9FzVhw8_bY.opus
+Dec 20 11:34 : update: added /The Beach Boys - I Feel So Fine-MJcfeD9IvQA.opus
+Dec 20 11:34 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 11:37 : player: played "2020/Oct/FF7 Remake OST - Smash 'Em Rip 'Em (Official Version)-hT2VbBAWJbA.opus"
+Dec 20 11:45 : player: played "2020/Oct/Na pět-206995257.mp3"
+Dec 20 11:53 : player: played "2020/Oct/Never Went-649728806.mp3"
+Dec 20 12:21 : avahi: Service 'Music Player @ lambda' successfully established.
+Dec 20 12:21 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 12:21 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 12:21 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 12:21 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 20 12:31 : player: played "godspeed/01 Peasantry or ‘Light! Inside of Light!’.mp3"
+Dec 21 14:19 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:19 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:19 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:19 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:20 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:20 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:20 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:20 : update: added C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 04 Extra song that is so garbage if you've made it here you're a true friend. I can kinda shred tho.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 03 Trans-Pacific Ho-Down(Alive song).mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 03 Trans-Pacific Ho-Down(Alive song).mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 04 Extra song that is so garbage if you've made it here you're a true friend. I can kinda shred tho.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 04 Extra song that is so garbage if you've made it here you're a true friend. I can kinda shred tho.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 03 Trans-Pacific Ho-Down(Alive song).mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Mis/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 02 Excuse me... Is this coffee anarchist-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 01 Not Drinking Booze Blues.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 03 Trans-Pacific Ho-Down(Alive song).mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FromNowhereToBackHere/Misery Chick - From Nowhere- To Back Here - 04 Extra song that is so garbage if you've made it here you're a true friend. I can kinda shred tho.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Only Trains Will Bump In The Night.m4a
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:21 : update: removing C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Only Trains Will Bump In The Night.m4a
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:21 : update: added C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Only Trains Will Bump In The Night.m4a
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:22 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 05 Sordid Mess.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner.zip/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 06 Proudhon In Manhattan.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 07 Communist Kid.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Only Trains Will Bump In The Night.m4a
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 03 Freedom Song.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 01 Left is America right-.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 04 The Headcount.mp3
+Dec 21 14:22 : update: added C in Corporate Diner/Missouri 2nd/Missouri 2nd - C in Corporate Diner - 02 If We Were Cowboys We'd Both Be Dead.mp3
+Dec 21 14:22 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3
+Dec 21 14:23 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3
+Dec 21 14:23 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3
+Dec 21 14:23 : update: removing C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk).zip/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 01 Sleeper.mp3
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 21 14:25 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3"
+Dec 21 14:28 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3"
+Dec 21 14:30 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3"
+Dec 22 13:05 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3"
+Dec 22 13:09 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3"
+Dec 22 13:12 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3"
+Dec 25 18:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 25 19:00 : player: played "2020/Nov/aebee-204596596.mp3"
+Dec 25 20:47 : player: played "2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3"
+Dec 25 20:47 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 25 20:50 : player: played "2020/Nov/Tron Legacy   Soundtrack OST   15 Solar Sailer   Daft Punk-124387576.mp3"
+Dec 25 20:58 : player: played "2020/Oct/PG Films-117499723.mp3"
+Dec 27 11:42 : player: played "2020/Sept/Django Reinhardt - Djangology-YPG1OnOrhis.opus"
+Dec 27 11:43 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 27 11:51 : player: played "2020/Sept/Dubliners (2008)-38529922.mp3"
+Dec 27 12:14 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 01 Duskdown Showdown.flac"
+Dec 27 12:18 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 02 Thunder Smile.flac"
+Dec 27 12:20 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 02 Thunder Smile.flac"
+Dec 27 12:20 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 03 Intermission.flac"
+Dec 27 12:23 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 04 Lovers End.flac"
+Dec 27 12:27 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 05 Wondrous Horizon.flac"
+Dec 27 13:00 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 02 Never Going (to sleep).mp3"
+Dec 27 13:03 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 03 Sleepless in 1905.mp3"
+Dec 27 13:05 : player: played "C in Corporate Diner/Misery Chick/FolkPunkLullabies/Misery Chick - Folk Punk Lullabies (Lullabies inspired by folk punk) - 04 Sleep Thistle.mp3"
+Dec 27 13:05 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 27 13:05 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Dec 27 13:10 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 01 Super Natural.flac"
+Dec 27 13:13 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 02 Sunshine Type.flac"
+Dec 27 13:16 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 03 What Got In The Way.flac"
+Dec 27 13:20 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 04 Butterfly Dream.flac"
+Dec 27 13:24 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 05 Curiosity.flac"
+Dec 27 13:27 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 06 Pure Devotion.flac"
+Dec 27 13:31 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 07 Nightlight Girl.flac"
+Dec 27 13:35 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 08 Breeze.flac"
+Dec 27 13:39 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 09 All That It Ever Was.flac"
+Dec 27 13:42 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 10 Living Small.flac"
+Dec 27 13:47 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 11 Bonnie (Rhythm & Melody).flac"
+Dec 27 13:50 : player: played "2020/Nov/Tron Legacy   Soundtrack OST   15 Solar Sailer   Daft Punk-124387576.mp3"
+Dec 27 14:51 : player: played "2020/Nov/Kitt'Indie Space Disco Triangle-129278244.mp3"
+Dec 27 14:56 : player: played "2020/Oct/Town Portal - Uncle Genie-57535718.mp3"
+Dec 27 14:59 : player: played "2020/Oct/Unfair Treaty-228843335.mp3"
+Dec 27 15:04 : player: played "2020/Oct/White Lies (feat. Jenni Potts)-166946567.mp3"
+Dec 27 15:07 : player: played "2020/Oct/Polyphia _ G.O.A.T. (Official Music Video)-9_gkpYORQLU.opus"
+Dec 27 15:14 : player: played "2020/Oct/Satellite (feat. Ellie Price)-185160510.mp3"
+Dec 27 15:19 : player: played "2020/Oct/PG Films-117499723.mp3"
+Dec 27 15:22 : player: played "2020/Sept/Django Reinhardt - Djangology-YPG1OnOrhis.opus"
+Dec 27 15:31 : player: played "2020/Sept/Dubliners (2008)-38529922.mp3"
+Dec 27 15:34 : player: played "Attic Abasement/01.ogg"
+Dec 27 15:39 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 01 Duskdown Showdown.flac"
+Dec 27 15:41 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 02 Thunder Smile.flac"
+Dec 27 15:41 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 03 Intermission.flac"
+Dec 27 15:44 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 04 Lovers End.flac"
+Dec 27 15:48 : player: played "Dusk Warrior/Dusk Warrior - With Love and Kisses - 05 Wondrous Horizon.flac"
+Dec 27 15:54 : player: played "Nenem/Unknown/0 - Black & Gold.mp3"
+Dec 27 15:58 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 01 Super Natural.flac"
+Dec 27 16:01 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 02 Sunshine Type.flac"
+Dec 27 16:05 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 03 What Got In The Way.flac"
+Dec 27 16:08 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 04 Butterfly Dream.flac"
+Dec 27 16:12 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 05 Curiosity.flac"
+Dec 27 16:16 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 06 Pure Devotion.flac"
+Dec 27 16:19 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 07 Nightlight Girl.flac"
+Dec 27 16:23 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 08 Breeze.flac"
+Dec 27 16:27 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 09 All That It Ever Was.flac"
+Dec 27 16:30 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 10 Living Small.flac"
+Dec 27 16:35 : player: played "Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 11 Bonnie (Rhythm & Melody).flac"
+Jan 03 20:31 : player: played "2020/Sept/Dubliners (2008)-38529922.mp3"
+Jan 04 13:50 : avahi: Service 'Music Player @ lambda' successfully established.
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : update: added 2021/1January/J.S. Aurelius - Music For Programming (mix)-167829125.mp3
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 13:50 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 04 15:18 : update: added 2021/1January/Leo Delibes, Duo des Fleurs-123530088.mp3
+Jan 04 18:37 : update: added 2021/1January/Icarus (Main Theme)-80204248.mp3
+Jan 14 12:56 : update: added 2021/1January/mumric @ Forest Star Festival 2017 [Chill Set]-337879434.mp3
+Jan 14 14:51 : update: added 2021/1January/Dancing on the Moon - DÉSØVZÅ & DREYMIX-232668290.mp3
+Jan 16 19:26 : player: played "2020/Sept/Dubliners (2008)-38529922.mp3"
+Jan 17 10:54 : avahi: Service 'Music Player @ lambda' successfully established.
+Jan 17 10:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 17 10:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 17 10:57 : player: played "2021/1January/Dancing on the Moon - DÉSØVZÅ & DREYMIX-232668290.mp3"
+Jan 17 11:01 : player: played "2021/1January/Icarus (Main Theme)-80204248.mp3"
+Jan 18 19:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 18 19:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 18 19:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 18 19:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 18 19:25 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 18 19:29 : player: played "2020/Oct/Jazz Math Rock Thing (mastered)-170875929.mp3"
+Jan 18 19:36 : player: played "2020/Oct/Icronic-331749420.mp3"
+Jan 20 11:29 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 20 20:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 20 20:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 23 11:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 23 11:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 23 11:36 : player: played "2021/1January/Dancing on the Moon - DÉSØVZÅ & DREYMIX-232668290.mp3"
+Jan 23 11:38 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jan 23 11:41 : player: played "2021/1January/Leo Delibes, Duo des Fleurs-123530088.mp3"
+Jan 23 13:11 : player: played "2021/1January/mumric @ Forest Star Festival 2017 [Chill Set]-337879434.mp3"
+Jan 23 13:17 : player: played "2020/May/The Pillows - Beautiful morning with you (FLCL OST No. 3) [HQ]-wj5hmkhUntM.opus"
+Jan 23 13:25 : player: played "2020/Oct/Jean Jean - With Mountains As Witness-221026430.mp3"
+Jan 23 13:27 : player: played "2020/Oct/Jazz Math Rock Thing (mastered)-170875929.mp3"
+Jan 23 13:31 : player: played "2020/Oct/Icronic-331749420.mp3"
+Jan 26 22:09 : player: played "2020/Oct/Final Fantasy VII - Jazz version-ew_JVr7qaTo.opus"
+Jan 28 18:17 : avahi: Service 'Music Player @ lambda' successfully established.
+Jan 28 18:36 : player: played "2019/March/KOKOROKO - ABUSEY JUNCTION _ WE OUT HERE-tSv04ylc6To.opus"
+Feb 05 10:13 : avahi: Service 'Music Player @ lambda' successfully established.
+Feb 05 11:35 : player: played "2019/March/KOKOROKO - ABUSEY JUNCTION _ WE OUT HERE-tSv04ylc6To.opus"
+Feb 16 19:09 : avahi: Service 'Music Player @ lambda' successfully established.
+Feb 16 19:09 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 16 19:09 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 16 19:09 : update: added 2021/2February/Mr. Blue Sky (Electric Light Orchestra) - Postmodern Jukebox ft. Allison Young-NTbNCezCJNM.opus
+Feb 16 19:09 : update: added 2021/1January/FOCOMOTION-346825512.mp3
+Feb 16 19:09 : update: added 2021/1January/Soul Phlegm - Izzy Real-231381908.mp3
+Feb 16 19:09 : update: added 2021/1January/All in my Dreams-745346086.mp3
+Feb 16 19:09 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 16 19:09 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 16 19:14 : player: played "2021/2February/Mr. Blue Sky (Electric Light Orchestra) - Postmodern Jukebox ft. Allison Young-NTbNCezCJNM.opus"
+Feb 16 19:59 : update: added 2021/2February/RO Chill Mix Full - Alternative HipHop, triphop, chillhop-0RP5229sA0E.opus
+Feb 25 20:28 : avahi: Service 'Music Player @ lambda' successfully established.
+Feb 25 20:28 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 25 20:28 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Bad Dog No Biscuits-EuAzPR0ACVw.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc - Live In Baghdad-X7R2Vl_hcCA.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc - American Money-M5HOXfo-UO0.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Car24-j8qtTojcGxk.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc - Don't Bother None-oSYZmTguXP8.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Space Lion-WKnVaDwUg5s.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - The Egg and I-h6N1_GJAyFw.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Too Good Too Bad-MUTMw7rEsDk.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc - Cats On Mars-Ev3Noeh4kpg.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Felt Tip Pen-SUNvJ5Plo-0.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc -  Want It All Back-FAgYC89I73Y.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Rain-Vcrb6365GsQ.opus
+Feb 25 20:28 : update: added 2021/2February/Watch_Dogs 1 OST - Motel Checkout-420318284.mp3
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Cat Blues-_bfVQ1S5Vx0.opus
+Feb 25 20:28 : update: added 2021/2February/Firelink Shrine Dark Souls-52765875.mp3
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 4 - Gotta knock a little harder-0V-WGwJJj58.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Rush-l8wWa3O9cUo.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Tank!-n2rVnRwW0h8.opus
+Feb 25 20:28 : update: added 2021/2February/Resident Evil Revelations 2 - Results Screen-241760937.mp3
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Waltz for Zizi-Qbip5oZVL94.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Memory-KWooB4tpQ9I.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Digging My Potato-YncNm0WQY2I.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Cosmos-cLiPISVAwek.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Spokey Dokey-MduJjbcLSqE.opus
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 2 No Disc - Fantaisie Sign-00vDy2lAwC8.m4a
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Piano Black-81m8_5mccgA.opus
+Feb 25 20:28 : update: added 2021/2February/Bloodstained - Ritual of the Night - Surpassing Grief-789619636.mp3
+Feb 25 20:28 : update: added 2021/2February/Cowboy Bebop OST 1 - Pot City-wN7x4DlfuCY.opus
+Feb 25 20:28 : update: added 2021/2February/Wicked Dance-329839695.mp3
+Feb 25 20:28 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 26 08:22 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 26 08:23 : player: played "2021/2February/Cowboy Bebop OST 1 - Cosmos-cLiPISVAwek.opus"
+Feb 26 08:26 : player: played "2021/2February/Cowboy Bebop OST 1 - Cat Blues-_bfVQ1S5Vx0.opus"
+Feb 26 08:29 : player: played "2021/2February/Cowboy Bebop OST 1 - Rain-Vcrb6365GsQ.opus"
+Feb 26 09:12 : player: played "2021/2February/Cowboy Bebop OST 1 - Space Lion-WKnVaDwUg5s.opus"
+Feb 26 09:15 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Feb 26 09:18 : player: played "2021/2February/Cowboy Bebop OST 1 - Car24-j8qtTojcGxk.opus"
+Feb 26 09:34 : player: played "2021/2February/Cowboy Bebop OST 1 - Piano Black-81m8_5mccgA.opus"
+Feb 26 09:44 : player: played "2021/2February/Cowboy Bebop OST 1 - Space Lion-WKnVaDwUg5s.opus"
+Feb 26 10:35 : player: played "2021/2February/Watch_Dogs 1 OST - Motel Checkout-420318284.mp3"
+Feb 26 10:47 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc -  Want It All Back-FAgYC89I73Y.m4a"
+Feb 26 10:48 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - American Money-M5HOXfo-UO0.opus"
+Feb 26 10:51 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Cats On Mars-Ev3Noeh4kpg.opus"
+Feb 26 10:54 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Don't Bother None-oSYZmTguXP8.opus"
+Feb 26 11:00 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Fantaisie Sign-00vDy2lAwC8.m4a"
+Feb 26 11:03 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Live In Baghdad-X7R2Vl_hcCA.m4a"
+Feb 26 11:08 : player: played "2021/2February/Cowboy Bebop OST 4 - Gotta knock a little harder-0V-WGwJJj58.m4a"
+Feb 26 11:11 : player: played "2021/2February/Cowboy Bebop OST 1 - Cosmos-cLiPISVAwek.opus"
+Feb 26 11:14 : player: played "2021/2February/Cowboy Bebop OST 1 - Cat Blues-_bfVQ1S5Vx0.opus"
+Feb 26 11:17 : player: played "2021/2February/Cowboy Bebop OST 1 - Rain-Vcrb6365GsQ.opus"
+Feb 26 11:24 : player: played "2021/2February/Cowboy Bebop OST 1 - Space Lion-WKnVaDwUg5s.opus"
+Feb 26 11:28 : player: played "2021/2February/Cowboy Bebop OST 1 - Waltz for Zizi-Qbip5oZVL94.opus"
+Feb 26 11:30 : player: played "2021/2February/Cowboy Bebop OST 1 - The Egg and I-h6N1_GJAyFw.opus"
+Feb 26 11:33 : player: played "2021/2February/Cowboy Bebop OST 1 - Too Good Too Bad-MUTMw7rEsDk.m4a"
+Feb 26 11:36 : player: played "2021/2February/Cowboy Bebop OST 1 - Car24-j8qtTojcGxk.opus"
+Feb 26 11:39 : player: played "2021/2February/Cowboy Bebop OST 1 - Piano Black-81m8_5mccgA.opus"
+Feb 26 11:41 : player: played "2021/2February/Cowboy Bebop OST 1 - Pot City-wN7x4DlfuCY.opus"
+Feb 26 11:45 : player: played "2021/2February/Cowboy Bebop OST 1 - Spokey Dokey-MduJjbcLSqE.opus"
+Feb 26 11:49 : player: played "2021/2February/Cowboy Bebop OST 1 - Rush-l8wWa3O9cUo.m4a"
+Feb 26 11:52 : player: played "2021/2February/Cowboy Bebop OST 1 - Tank!-n2rVnRwW0h8.opus"
+Feb 26 12:30 : player: played "2021/2February/RO Chill Mix Full - Alternative HipHop, triphop, chillhop-0RP5229sA0E.opus"
+Feb 26 12:39 : player: played "2021/2February/Resident Evil Revelations 2 - Results Screen-241760937.mp3"
+Feb 26 12:43 : player: played "2021/2February/Watch_Dogs 1 OST - Motel Checkout-420318284.mp3"
+Feb 26 12:48 : player: played "2021/2February/Wicked Dance-329839695.mp3"
+Feb 26 12:51 : player: played "2021/2February/Firelink Shrine Dark Souls-52765875.mp3"
+Feb 26 12:53 : player: played "2021/2February/Bloodstained - Ritual of the Night - Surpassing Grief-789619636.mp3"
+Feb 26 12:57 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc -  Want It All Back-FAgYC89I73Y.m4a"
+Feb 26 12:58 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - American Money-M5HOXfo-UO0.opus"
+Feb 26 13:01 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Cats On Mars-Ev3Noeh4kpg.opus"
+Feb 26 13:05 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Don't Bother None-oSYZmTguXP8.opus"
+Feb 26 13:05 : player: played "2021/2February/Cowboy Bebop OST 2 No Disc - Fantaisie Sign-00vDy2lAwC8.m4a"
+Mar 03 10:08 : avahi: Service 'Music Player @ lambda' successfully established.
+Mar 03 10:08 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 03 10:46 : player: played "2021/2February/RO Chill Mix Full - Alternative HipHop, triphop, chillhop-0RP5229sA0E.opus"
+Mar 03 10:51 : player: played "2021/2February/Cowboy Bebop OST 1 - Bad Dog No Biscuits-EuAzPR0ACVw.m4a"
+Mar 03 12:20 : player: played "2021/2February/Mr. Blue Sky (Electric Light Orchestra) - Postmodern Jukebox ft. Allison Young-NTbNCezCJNM.opus"
+Mar 14 12:23 : avahi: Service 'Music Player @ lambda' successfully established.
+Mar 14 12:23 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 14 13:00 : player: played "2021/2February/RO Chill Mix Full - Alternative HipHop, triphop, chillhop-0RP5229sA0E.opus"
+Mar 14 13:05 : player: played "2021/2February/Cowboy Bebop OST 1 - Bad Dog No Biscuits-EuAzPR0ACVw.m4a"
+Mar 14 13:07 : player: played "2021/2February/Cowboy Bebop OST 1 - Car24-j8qtTojcGxk.opus"
+Mar 14 13:12 : player: played "2021/2February/Mr. Blue Sky (Electric Light Orchestra) - Postmodern Jukebox ft. Allison Young-NTbNCezCJNM.opus"
+Mar 14 15:12 : update: added 2021/3March/The Best Of Latin Lounge Jazz, Bossa Nova, Samba And Smooth Jazz Beat - 20 Greatest Hits-257421013.mp3
+Mar 14 15:12 : update: added 2021/3March/Tempo of Time.mp3
+Mar 14 15:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 14 15:12 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 14 16:00 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 14 16:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 14 19:34 : player: played "2021/3March/Tempo of Time.mp3"
+Mar 14 19:39 : avahi: Service 'Music Player @ lambda' successfully established.
+Mar 14 19:39 : player: played "2018/december/'Tangled Up With You'-iN0f6VYesmk.opus"
+Mar 15 10:06 : player: played "2019/March/Alien.opus"
+Mar 15 17:28 : update: added 2021/3March/Mario & Chill ~ Rainbow Road-623660568.mp3
+Mar 17 11:52 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 17 11:56 : player: played "2021/3March/Mario & Chill ~ Rainbow Road-623660568.mp3"
+Mar 17 12:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 17 13:02 : player: played "2021/3March/Tempo of Time.mp3"
+Mar 17 13:02 : player: played "2021/3March/Mario & Chill ~ Rainbow Road-623660568.mp3"
+Mar 17 15:37 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 17 15:58 : player: played "2021/3March/Tempo of Time.mp3"
+Mar 17 16:02 : player: played "2021/3March/Mario & Chill ~ Rainbow Road-623660568.mp3"
+Mar 17 16:52 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 17 16:53 : exception: No such directory
+Mar 17 16:53 : exception: Failed to open '/home/jon/.config/mpd/playlists/PS.m3u': No such file or directory
+Mar 17 16:53 : exception: No such playlist
+Mar 17 21:37 : player: played "2019/March/KOKOROKO - ABUSEY JUNCTION _ WE OUT HERE-tSv04ylc6To.opus"
+Mar 17 21:40 : avahi: Service 'Music Player @ lambda' successfully established.
+Mar 19 20:41 : player: played "2019/March/KOKOROKO - ABUSEY JUNCTION _ WE OUT HERE-tSv04ylc6To.opus"
+Mar 23 19:42 : avahi: Service 'Music Player @ lambda' successfully established.
+Mar 23 19:42 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 23 22:19 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 24 13:19 : update: added 2021/3March/CRi - Why I Love You (feat. Ouri & Odile M.) [Rosewater Ctz Remix]-292462582.mp3
+Mar 24 13:30 : update: added 2021/3March/Altair-220582150.mp3
+Mar 24 15:00 : update: added 2021/3March/Doc Daneeka & Abigail Wyles - Tobyjug (TTY007)-36167682.mp3
+Mar 24 15:04 : update: added 2021/3March/Swoon - Grenier meets Archie Pelago-133021453.mp3
+Mar 24 15:18 : update: added 2021/3March/Paume - Follies-147199954.mp3
+Mar 24 15:23 : update: added 2021/3March/Hollow Grove Feat. Nubiya Brandon-115743135.mp3
+Mar 24 15:29 : update: added 2021/3March/Pedestrian - Airs & Graces-277953141.mp3
+Mar 24 15:47 : update: added 2021/3March/Syko (Round's Slow Response Mix)-230783431.mp3
+Mar 24 15:56 : update: added 2021/3March/Grenier meets Archie Pelago - 'Two If By Sea'-133021465.mp3
+Mar 24 16:16 : update: added 2021/3March/Grenier Meets Archie Pelago - Phosphorent-148328301.mp3
+Mar 24 16:29 : update: removing 2021/3March/Swoon - Grenier meets Archie Pelago-133021453.mp3
+Mar 24 16:29 : update: added 2021/3March/Grenier meets Archie Pelago-swoon.mp3
+Mar 24 16:29 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 25 11:00 : update: added 2021/3March/Download - Archie Pelago & Grenier 'Navigator'-148375027.mp3
+Mar 25 11:29 : update: added 2021/3March/Archie Pelago - Music To... Rooftop Grill To-149307636.mp3
+Mar 25 15:06 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Mar 25 15:06 : player: played "2021/3March/Tempo of Time.mp3"
+Mar 25 18:29 : update: added 2021/3March/Life Force Radio Observatory #25 With Inna-164985466.mp3
+Apr 11 17:06 : avahi: Service 'Music Player @ lambda' successfully established.
+Apr 16 11:21 : player: played "2019/March/Alien.opus"
+Apr 25 12:04 : avahi: Service 'Music Player @ lambda' successfully established.
+Apr 25 12:04 : player: played "2019/March/Alien.opus"
+Apr 27 15:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 27 15:37 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 27 15:37 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:39 : player: played "Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 06 Tingri.mp3"
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:41 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:42 : player: played "JPEGMAFIA/JPEGMAFIA - Veteran - 10 Libtard Anthem (feat. Freaky).mp3"
+Apr 27 15:44 : player: played "Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 02 Malls.mp3"
+Apr 27 15:45 : player: played "Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 04 Idgaf Island.mp3"
+Apr 27 15:48 : player: played "Vektroid/Laserdisc Visions - New Dreams Ltd/Laserdisc Visions - New Dreams Ltd. - 08 Tear.mp3"
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:49 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 15:55 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 01 Neo Miami.mp3"
+Apr 27 16:28 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 09 Yr Mind.mp3"
+Apr 27 16:29 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 10 Interlude.mp3"
+Apr 27 16:37 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 11 Neo Cali.mp3"
+Apr 27 16:41 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 12 Over U.mp3"
+Apr 27 16:44 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 13 Softly.mp3"
+Apr 27 16:48 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 14 Terminal.mp3"
+Apr 27 16:53 : player: played "Vektroid/Neo Cali/Vektroid - Neo Cali - 15 Tahiti TV.mp3"
+Apr 27 16:54 : player: played "Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 01 I Can Still Feel It.mp3"
+Apr 27 16:57 : player: played "Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 02 Consilience.mp3"
+Apr 27 16:59 : player: played "Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 03 Vacant Earth.mp3"
+Apr 27 17:00 : player: played "Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 04 #12.mp3"
+Apr 27 17:01 : player: played "Vektroid/New Dreams Ltd. - Eden/New Dreams Ltd. - Eden - 05 We Will Use The Data.mp3"
+Apr 27 17:08 : player: played "Vektroid/New Dreams Ltd. - Sleepline/New Dreams Ltd. - Sleepline - 02 Nakano #18.mp3"
+Apr 27 17:08 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:08 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:08 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 17:20 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 18:18 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 20:00 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 20:00 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 20:00 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 20:00 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 20:04 : player: played "2018/september/Bonobo  - Cirrus [Official Video]-WF34N4gJAKE.opus"
+Apr 27 20:07 : player: played "2018/september/Harley Alexander - Nothin to learn-WunjyoO8-uY.m4a"
+Apr 27 20:12 : player: played "2018/september/Hybrid Minds - Touch (ft. Tiffani Juno)-4AKSpPkZAuE.opus"
+Apr 27 20:16 : player: played "2018/september/JABOBEE - ALL ALONE-EYf45cCf1aU.opus"
+Apr 27 20:19 : player: played "2018/september/Kid Trails - Naming-_eWuSu42R0c.m4a"
+Apr 27 20:23 : player: played "2018/september/MARINA AND THE DIAMONDS _ PART 4 - ♡ 'PRIMADONNA' ♡-Gj5L9SYhoSE.mp3"
+Apr 27 20:26 : player: played "2018/september/Mars Andaras (M_A_R_S) - When I Think About U (Jealous)-LTN-Jbr-GZs.opus"
+Apr 27 20:36 : player: played "2018/september/nate b. - naked.-LxMfjcMzFU4.m4a"
+Apr 27 20:49 : player: played "2018/september/No Swoom - EP 1 (Full EP)-qWg3h_EERRI.opus"
+Apr 27 20:52 : player: played "2018/september/Selfsteam - Lost Coast [NG003]-xM_qSm8uETM.m4a"
+Apr 27 20:54 : player: played "2018/september/Silicon Estate - If everything was good (Feat. Mimi Bay)-QVDyZvEyVek.opus"
+Apr 27 20:58 : player: played "2018/september/Ski Boy - Woozy-OrHhjgtbP9w.m4a"
+Apr 27 21:02 : player: played "2018/september/Soleil Vert - Mirage-zF8og_i8LgA.opus"
+Apr 27 21:05 : player: played "2018/september/The Beach Bullies - Femme Fatale-MQvf4ahIYIU.m4a"
+Apr 27 21:08 : player: played "2018/september/Thrift Shop Vitamin String Quartet (Macklemore & Ryan Lewis)-EgOzGxcwSDo.opus"
+Apr 27 21:12 : player: played "2018/november/CALVIN HARRIS BURNS NIGHT-q9fg7snCKxE.opus"
+Apr 27 21:18 : player: played "2018/december/Aphex Twin - Avril 14th (Extended)-PeLuQ6X2ixI.opus"
+Apr 27 21:21 : player: played "2018/december/Knytt Underground - Nifflas - Please Exist, I'd Appreciate It-MlzsEJNnXGk.opus"
+Apr 27 21:24 : player: played "2018/december/Mallrat - Inside Voices-I0sD0Tm7aCk.opus"
+Apr 27 21:27 : player: played "2018/december/Resident Evil Orchestra-Re1 - Peace of Mind-p-nKeAxJMGI.m4a"
+Apr 27 21:29 : player: played "2018/december/Still Woozy - Habit-aW05KAVqPDM.opus"
+Apr 27 21:33 : player: played "2018/november/98 - The Legend of Zelda - Spirit Tracks - Underwater-IIaSCG8FwK8.m4a"
+Apr 27 21:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 21:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 21:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 21:33 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 27 21:39 : player: played "2019/January/Blurred (Bonobo Remix).opus"
+Apr 27 21:43 : player: played "2019/January/I didn't Know.opus"
+Apr 27 21:48 : player: played "2019/March/Cloudchord x Soul Food Horns – Bopatron-6YW_siolBF0.opus"
+Apr 27 21:52 : player: played "2019/March/Nobody.opus"
+Apr 27 21:56 : player: played "2019/March/Spire – Petal Falls-GbI4gw8D5kE.opus"
+Apr 27 22:01 : player: played "2019/March/Spire – Petal Falls-GbI4gw8D5kE.opus"
+Apr 28 17:03 : player: played "2019/March/Zoetrope.ogg"
+Apr 29 17:48 : avahi: Service 'Music Player @ lambda' successfully established.
+Apr 29 17:48 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Apr 29 18:05 : player: played "2020/June/Rappin 4 Tay - I'll Be Around-K8gk7bWu5Jg.opus"
+May 06 12:14 : update: added 2021/5may/Cecilia's Fruit-86225361.mp3
+May 06 21:31 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 06 21:31 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 06 21:41 : player: played "2020/June/Tarrey Town - The Legend of Zelda - Breath of the Wild Soundtrack-SqhZbK6RI8g.opus"
+May 08 20:33 : update: added 2021/5may/13 Angels Standing Guard 'Round The Side Of Your Bed-310995372.mp3
+May 08 20:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:54 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:57 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 08 20:57 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 09 15:00 : player: played "2020/Nov/Fable 1, 2 and 3's Most Peaceful and Calm Songs (Albions Greatest Hit's)-9_9_HxGl844.opus"
+May 09 15:07 : avahi: Service 'Music Player @ lambda' successfully established.
+May 09 15:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 09 15:11 : player: played "2020/April/Final Fantasy 7 Battle Theme - Metal Cover-WlJ9UBfnApk.opus"
+May 09 15:14 : player: played "2020/April/Crisis Core Final Fantasy VII Music - Why (Guitar Version)-qX1CfvJpr4k.opus"
+May 09 15:14 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 09 15:14 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 09 15:21 : player: played "2021/5may/Cecilia's Fruit-86225361.mp3"
+May 09 21:48 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 09 21:55 : player: played "2021/5may/13 Angels Standing Guard 'Round The Side Of Your Bed-310995372.mp3"
+May 09 22:02 : player: played "2021/5may/Cecilia's Fruit-86225361.mp3"
+May 09 22:08 : player: played "2021/3March/CRi - Why I Love You (feat. Ouri & Odile M.) [Rosewater Ctz Remix]-292462582.mp3"
+May 13 15:52 : player: played "2021/3March/Life Force Radio Observatory #25 With Inna-164985466.mp3"
+May 21 14:06 : avahi: Service 'Music Player @ lambda' successfully established.
+May 21 14:06 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 21 14:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+May 21 14:14 : player: played "2021/5may/13 Angels Standing Guard 'Round The Side Of Your Bed-310995372.mp3"

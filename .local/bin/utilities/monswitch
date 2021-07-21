@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#List array Options
+
+ARR=()
+ARR+=("Laptop Only")
+ARR+=("1920x1080 monitor Solo")
+#ARR+=("LQ1")
+#ARR+=("LQ2")
+
+CHOICE=$(printf '%s\n' "${ARR[@]}" | rofi -dmenu -config /usr/share/rofi/themes/fullbar.rasi -p "Select Output Type:")
+
+if [ "$CHOICE" = "Laptop Only" ]; then
+	xrandr --output eDP1 --mode 3000x2000; xrandr --output DP2 --off ; sed -i 's/^\(Xft.dpi:\).*/\Xft.dpi:220/' ~/.Xresources; sed -ri 's/(ofi.dpi:).*/\ofi.dpi:220/' ~/.Xresources ; xrdb ~/.Xresources; sed -ri 's/(pango:mono ).*/\pango:mono 12/' ~/.config/i3/config; i3 restart; setbg ; remaps
+	exit 0
+fi
+
+if [ "$CHOICE" = "1920x1080 monitor Solo" ]; then
+	xrandr --output eDP1 --off; xrandr --output DP2 --mode 1920x1200;  sed -i 's/^\(Xft.dpi:\).*/\Xft.dpi:110/' ~/.Xresources; sed -ri 's/(ofi.dpi:).*/\ofi.dpi:110/' ~/.Xresources; xrdb .Xresources; sed -ri 's/(pango:mono ).*/\pango:mono 14/' ~/.config/i3/config; i3 restart; setbg ; remaps
+	exit 0
+fi
+
+

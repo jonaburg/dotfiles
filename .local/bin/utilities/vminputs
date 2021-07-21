@@ -1,0 +1,28 @@
+#!/bin/bash
+# options for VM input switching.. gaming stuff
+#j.b. 04.10.19
+#jb 10.02.2020
+
+ARR=()
+ARR+=("Just Peripherals")
+ARR+=("Including monitor as well")
+menuchoice=$(printf '%s\n' "${ARR[@]}" | rofi -dmenu -config /usr/share/rofi/themes/defaulo.rasi -p "Select Type(s):    ")
+
+
+if [ "$menuchoice" = "Just Peripherals" ]; then
+	sudo virsh attach-device gaymin2 /home/$USER/.VFIOinput/input_mouse.xml
+	sudo virsh attach-device gaymin2 /home/$USER/.VFIOinput/input_keyboard.xml
+	dunstify "Swapping over to winVM.. partially"
+exit 0
+fi
+
+
+if [ "$menuchoice" = "Including monitor as well" ]; then
+	sudo virsh attach-device gaymin2 /home/$USER/.VFIOinput/input_mouse.xml
+	sudo virsh attach-device gaymin2 /home/$USER/.VFIOinput/input_keyboard.xml
+	sudo ddcutil setvcp --bus 1 60 0x11
+	dunstify "Swapping over to winVM.. fully, including monitor"
+
+exit 0
+fi
+

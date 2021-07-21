@@ -1,0 +1,4 @@
+#!/bin/env sh
+
+[[ $(sudo virsh list --all | grep 2 | awk {'print $3'}) == "running" ]] && sudo virsh suspend gaymin2 && notify-send "suspended VM" || sudo virsh resume gaymin2 && notify-send "resumed VM"
+

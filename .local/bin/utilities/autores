@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# If no argument is specified, ask for it and exit
+if [[ -z "$@" ]];
+then echo "This screen must be run with arguments.(width height refresh rate)";
+exit
+else
+arg="$@"
+
+#Basic check to make sure argument number is valid. If not, display error and exit
+if [[ $(($(echo $arg | grep -o "\s" | wc --chars) / 2 )) -ne 2 ]];
+then
+echo "You need to specify parameters in the format "width height refreshRate""
+echo "For example: "autores 1500 1000 75""
+exit
+fi
+
+#Save stuff in variables and then use xrandr with those variables
+modename=$(echo $arg | sed 's/\s/_/g')
+display=$(xrandr | grep -Po '.+(?=\sconnected)')
+if [[ "$(xrandr|grep $modename)" = "" ]];
+then
+xrandr --newmode $modename $(gtf $(echo $arg) | grep -oP '(?<="\s\s).+') &&
+xrandr --addmode $display $modename
+fi
+xrandr --output $display --mode $modename
+
+#If no error occurred, display success message
+if [[ $? -eq 0 ]];
+then
+echo "Display changed successfully to $arg"
+fi
+fi

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+download(){
+if [ ! -d ~/.cache/finance ]; then
+	mkdir ~/.cache/finance
+fi
+[ "$(stat -c %y /tmp/finance/btc | cut -d ' ' -f1 )" != "$(date '+%Y-%m-%d')" ]  &&
+coinmon -f BTC | grep BTC > /tmp/finance/btc
+[[ "$(date +%s) - 3000" -gt "$(stat -c %Y /tmp/finance/tft)" ]] &&
+curl https://www.coingecko.com/en/coins/threefold-token/usd > /tmp/finance/tft
+}
+
+
+btc(){
+download
+sed 's/║//g;s/│//g' /tmp/finance/btc | awk {'print $6'} | cut -b 1-9
+}
+
+tft(){
+download
+#grep -m 8 value /tmp/finance/tft | tail -1  | sed 's/>/\n/g' | grep -m 1 USD | cut -d'<' -f1
+grep USD /tmp/finance/tft | tail -1 | cut -d'"' -f 26 | cut -b -8
+
+}
+
+"$@"

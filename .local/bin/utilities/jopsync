@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+/sbin/joplin sync ; rsync -av /home/jon/Documents/joplin saturn:/home/jon/
+

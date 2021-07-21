@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Xresources theme Switcher
+
+choiceXresource=$(printf "$(ls -lar ~/Documents/Xresources/ | awk {'print $9'}) " | rofi -dmenu -config ~/.config/rofi/themes/xres.rasi -p "Pick an Xresources Theme")
+
+xrdb -merge ~/Documents/Xresources/$choiceXresource
+
+dunstify -r 455 -u low "Current Theme is: $choiceXresource"
+
+

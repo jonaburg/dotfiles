@@ -1,0 +1,27 @@
+#!/bin/bash
+
+source ~/.zshrc
+setbg &		# Set the background
+sxhkd &	# Bind keys
+# Switch to US international with Caps as Mod/Escape
+setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
+# Properties button extra Mod/Escape
+xmodmap -e 'keycode 135 = Super_R' &
+xset r rate 200 40 &	# Speed xrate up
+unclutter &		# Remove mouse when idle
+#compton --config ~/.config/compton.conf &		# xcompmgr for transparency
+## jonaburg's picom
+#/home/jon/Work/Compositing/test/picom/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
+#/home/jon/Work/Compositing/test/picom/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
+## dcillag's picom
+/home/jon/Work/Compositing/dcillag/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
+#picom --experimental-backend &
+dunst &			# dunst for notifications
+mpdupdate &
+caffeine &
+barrier &
+#dropbox &
+#nm-applet & # don't need this on my desktop..
+
+xrdb -merge .Xresources &&
+#python ~/.config/awesome/autohidewibox/autohidewibox.py

@@ -1,0 +1,120 @@
+#!/bin/bash
+#vncsetup configurator
+#20.01.2020 revision
+# only works on RHEL 6/7 and CENTOS 7. no longer mantained. woopsie.
+
+#set -x
+#dialog tempfiles
+INPUT=/tmp/menu.sh.$$
+OUTPUT=/tmp/output.sh.$$
+
+#dialogtempfiles
+tmp_file=$(tempfile 2>/dev/null) || tmp_file=/tmp/test$$
+trap "rm -f $tmp_file" 0 1 2 5 15
+
+
+
+function display_output(){
+        local h=${1-10}                 #box height default 10
+        local w=${2-41}                 #box height default 41
+        local t=${3-Output}                     #box title
+        dialog --backtitle "VNCS" --title "${t}" --clear --msgbox "$(<$OUTPUT)" ${h} ${w}
+}
+
+
+function whichserver(){
+# dialogue input for asked session to kill
+dialog --title "VNCS" \
+--clear  \
+--inputbox "Enter hostname of machine to configure as VNC Host" 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+destinationServer=$(< $tmp_file)
+}
+
+#checking if reqs are installed
+function tvncs(){
+if isinstalled tigervnc-server;
+        then echo "tigervnc-server already installed... skipping...";
+        else yum -y install tigervnc-server;
+fi
+}
+# yum install tigervnc-server
+function isinstalled() {
+  if yum list installed "$@" >/dev/null 2>&1; then
+      true
+  else
+      false
+  fi
+}
+
+
+#Dialog Main Menu for configuring Host VNC in Linux + host & client
+dialog --clear  --help-button --backtitle "VNCS Serverside Setup, welcome $USER" \
+--title " [ VNCS Configurer]" \
+--menu "You can use the UP/DOWN arrow keys, the first \n\
+letter of the choice as a hot key, or the \n\
+number keys 1-9 to choose an option. \n\
+THIS IS A ONE STOP SHOP FOR SETTING UP." 25 100 75 \
+1 "New User Setup (Create, Ensure, or Change Password)" \
+2 "Install tigervnc-server (for host)" \
+3 "RSYNC vncs && Install tigervnc (for client)" \
+4 "Exit" 2>"${INPUT}"
+
+menuitem=$(<"${INPUT}")
+
+
+#make decision
+case $menuitem in
+
+
+
+                1) whichserver;
+
+# dialogue input for which username to make file for
+dialog --title "VNCS configuratorerer" \
+--clear  \
+--inputbox "Enter username to configurerer for " 16 51 2> $tmp_file
+# Get the exit status
+return_value=$?
+destinationUser=$(< $tmp_file);
+
+                      ssh root@$destinationServer "cp /usr/lib/systemd/system/vncserver@.service /etc/systemd/system/vncserver-${destinationUser}@.service; sed -i 's/<USER>/${destinationUser}/g' /etc/systemd/system/vncserver-${destinationUser}@.service;  systemctl daemon-reload;"
+
+        dialog --title "VNCS configurator" \
+        --clear  \
+        --inputbox "Enter the password of the user to be configured" 16 51 2> $tmp_file
+        # Get the exit status
+        return_value=$?
+        destinationUserPasswd=$(< $tmp_file)
+
+        echo "printf \"$destinationUserPasswd\n$destinationUserPasswd\n\n\" | vncpasswd "   > /tmp/vncpas.sh
+        chmod +x /tmp/vncpas.sh
+        rsync -av /tmp/vncpas.sh $destinationServer:/tmp/vncpas.sh
+        ssh root@$destinationServer  "su - $destinationUser -c 'bash /tmp/vncpas.sh'; rm /tmp/vncpas.sh"
+        rm /tmp/vncpas.sh
+
+
+
+#creates xsession display parameters for vnc session and then transfers it
+echo -e "unset SESSION_MANAGER  \n
+unset DBUS_SESSION_BUS_ADDRESS  \n
+[ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup  \n
+xsetroot -solid grey   \n
+exec /usr/bin/openbox & " > /tmp/xstartup
+chmod +x /tmp/xstartup
+rsync -av /tmp/xstartup $destinationServer:/tmp/xstartup
+rm /tmp/xstartup
+ssh root@$destinationServer  "su - $destinationUser -c 'cp /tmp/xstartup /home/\$LOGNAME/.vnc/xstartup'; rm /tmp/xstartup"
+
+echo -e "The user $destinationUser is now setup on $destinationServer. Make sure the vncs script is in the user's path (option 3), and have them execute the program on the client. Note: you may want to setup SSH keys for them from prod to dev." > $OUTPUT;
+
+display_output
+
+                        ;;
+                2) whichserver; ssh root@$destinationServer "yum install -y tigervnc-server" ;;
+                3) whichserver; rsync -av /admin/bin/utilities/vncs root@$destinationServer:/usr/local/sbin/vncs;
+                        ssh root@$destinationServer " yum install -y tigervnc" ;;
+
+                4) exit ;;
+        esac

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# audio queue
+mplayer ~/Documents/Physio/alarm.ogg &
+
+# visual notification reminder
+notify-send "Hey! stretch now!"
+
+# open zathura to show pdf.
+zathura ~/Documents/Physio/week1.pdf
+
+

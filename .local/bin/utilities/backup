@@ -1,0 +1,72 @@
+#!/bin/bash
+
+fullsync(){
+
+# establishes README for time of this backup
+echo "This backup corresponds to:" $(date) > ~/.local/backups/README.md
+
+## DOES NOT INCLUDE AWESOME. SYNC DIRECTLY FROM GITHUB (spread out branch preferrably)
+#syncing ~/.config contents
+#rsync -av ~/.config/awesome ~/.local/backups/.config/
+
+
+rsync -av ~/.config/dunst ~/.local/backups/.config/
+rsync -av ~/.config/joplin ~/.local/backups/.config/
+rsync -av ~/.config/fontconfig ~/.local/backups/.config/
+rsync -av ~/.config/lf ~/.local/backups/.config/
+rsync -av ~/.config/ncmpcpp ~/.local/backups/.config/
+rsync -av ~/.config/newsboat ~/.local/backups/.config/
+#rsync -av ~/.config/nvim ~/.local/backups/.config/
+rsync -av ~/.config/rofi ~/.local/backups/.config/
+rsync -av ~/.config/st ~/.local/backups/.config/
+rsync -av ~/.config/mpv ~/.local/backups/.config/
+rsync -av ~/.config/mpd ~/.local/backups/.config/
+rsync -av ~/.config/sxhkd ~/.local/backups/.config/
+rsync -av ~/.config/sxiv ~/.local/backups/.config/
+rsync -av ~/.config/zathura ~/.local/backups/.config/
+rsync -av ~/.config/compton.conf ~/.local/backups/.config/
+rsync -av ~/.config/picom.conf ~/.local/backups/.config/
+rsync -av ~/.config/emoji ~/.local/backups/.config/
+rsync -av ~/.config/fontawesome ~/.local/backups/.config/
+
+#syncing homedir files
+rsync -av ~/.abook ~/.local/backups/
+rsync -av ~/.mozilla/firefox/kvglthvf.default-release ~/.local/backups/.mozilla/firefox/
+#rsync -av ~/.parsec ~/.local/backups/
+rsync -av ~/.bash_profile ~/.local/backups/
+rsync -av ~/.bashrc ~/.local/backups/
+rsync -av ~/.dir_colors ~/.local/backups/
+rsync -av ~/.inputrc ~/.local/backups/
+rsync -av ~/.profile ~/.local/backups/
+rsync -av ~/.tmux.conf ~/.local/backups/
+rsync -av ~/.tmux.conf.backup ~/.local/backups/
+rsync -av ~/.vimrc ~/.local/backups/
+rsync -av ~/.xinitrc ~/.local/backups/
+rsync -av ~/.xprofile ~/.local/backups/
+rsync -av ~/.Xresources ~/.local/backups/
+rsync -av ~/.zshrc ~/.local/backups/
+
+
+# syncing Documents/Xresources/folder
+rsync -av ~/Documents/Xresources ~/.local/backups/Xresources/
+
+# syncing crontab(s)
+rsync -av /var/spool/cron/jon ~/.local/backups/cron/
+
+# syncing most script(s)
+rsync -av ~/.local/bin ~/.local/backups/.local/
+
+
+#syncing st build
+rsync -av ~/Dropbox/NEETLiving/Linux/configs/NextParadigm/st ~/.local/backups/
+## obsolete for now
+#syncing rofi themes
+#rsync -av /usr/share/rofi/themes/* ~/.local/backups/Documents/rofi/themes/
+#syncing website (to dropbox)
+#rsync -av ~/Website/* ~/Dropbox/NEETLiving/Linux/Website/
+
+
+}
+"$@"
+
+

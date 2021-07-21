@@ -1,0 +1,72 @@
+
+
+
+
+"------------ General News --------------------"
+https://feeds.thelocal.com/rss/ch news "~      The Local (Swiss)"
+
+"------------ Technology --------------------"
+
+http://rss.slashdot.org/Slashdot/slashdotMain news "~      Slashdot"
+https://www.sciencedaily.com/rss/all.xml news "~      Science Daily (all)"
+https://www.phoronix.com/rss.php news "~      Phoronix"
+https://www.technologyreview.com/stories.rss news "~      MIT Technology"
+https://massivelyop.com/category/news/feed news "~      Massively Overpowered MMO News"
+https://www.wowhead.com/news/rss/all "~      Wowhead"
+
+"------------ Linux --------------------"
+https://www.archlinux.org/feeds/news/ news "~      Arch Linux: Recent News Updates"
+https://www.i-bsd.com/feed.xml techspeciality "~      iBSD - Proving BSD as a viable alternative"
+https://www.romanzolotarev.com/rss.xml techspeciality "~      Mastering the Web - Roman Zolotarev"
+https://www.gamingonlinux.com/article_rss.php techspeciality "~      GamingOnLinux Latest Articles"
+
+
+"------------ Bloggers --------------------"
+http://lukesmith.xyz/rss.xml blog "~      Luke Smith"
+https://stallman.org/rss/rss.xml blog "~      Richard Stallman"
+https://notrelated.libsyn.com/rss blog "~      Not Related!"
+https://nitter.net/StefanMolyneux/rss blog "~      @Stefan Molyneux"
+https://nitter.net/jarettcale/rss blog "~      @Jarett Cale"
+https://medium.com/feed/@nntaleb blog "~      @Nassim Taleb"
+http://feeds.feedburner.com/RazibKhansTotalFeed blog "~      Razib Khan"
+https://feeds.feedburner.com/FreedomainRadioVolume6 blog "~      Stefan Molyneux"
+
+
+"------------ Economics --------------------"
+https://www.badscience.net/feed/ blog "~      Bad Science"
+http://adamsmithblog.com/feed blog "~      Adam Smith Blog"
+http://austrianeconomists.typepad.com/weblog/rss.xml blog "~      Coordination Problem"
+
+
+"------- Youtube_Channels ------------------"
+# template #### https://www.youtube.com/feeds/videos.xml?channel_id=
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3                           "~      Luke Smith 1"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA videos "~      Luke Smith YT"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA videos "~      mental outlaw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCb4pvsyqNrmBIGJFQxEukUA videos "~      Meme Analysis"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3TUCGI-7rSjvHsE4ONXRww videos "~      MilleniaThinker"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWCV3Jdv-KUdDlWGxdzDWag videos "~      brum21"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVCLiafvjk3D-V9G9t5U0dQ videos "~      brums dad"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w videos "~      Level1Linux"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ videos "~      Level1Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg videos "~      Distrotube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw videos "~      HydeWars"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA videos "~      ComputerPhile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYZtp0YIxYOipX15v_h_jnA videos "~      Crowbcat"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcukTqc1cJJ4K3c4uzxTzjA videos "~      ADV Podcasts"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFFLP0dKesrKWccYscdAr9A videos "~      The Urban Penguin"
+https://www.bitchute.com/feeds/rss/channel/brodierobertson videos "~      Brodie Robertson (bitchute)"
+https://www.bitchute.com/feeds/rss/channel/freedomainradio/ videos "~      Stef Molyneux (bitchute)"
+https://www.bitchute.com/feeds/rss/channel/bombardsbodylanguage/ videos "~      bombardsbodylanguage (bitchute)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDWIvJwLJsE4LG1Atne2blQ videos "~      h3h3"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtqxG9IrHFU_ID1khGvx9sA videos "~      All Gas No Breaks"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwiaPYufmQOq5F1TI-FzQhw videos "~      Bellular Gaming"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiYLmBHW28jyTt0vBUFuK5A videos "~      Accolon Gaming"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfIaPgy_L2ResrWP5f2B3FA videos "~      Spoony Experiment"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiwFcYaaqDSkzaA0CipV2BA videos "~      nerdSlayer Studios"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIveFvW-ARp_B_RckhweNJw videos "~      Steven Crowder"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbMJuChLfqeXCgEmmciKZxA videos "~      Real Responders (UK shit tv)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgDRJXiNUT_yzIwcWBj_fqg videos "~      Can't Pay We'll Take it Away!(UK shit tv)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuXy5tCgEninup9cGplbiFw videos "~      Missing Semester"

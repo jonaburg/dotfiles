@@ -1,0 +1,48 @@
+#!/bin/bash
+# during wfh period, while using barrier for IO/monitor input switching
+# now includes 3rd monitor orientation switch
+
+###############################################################################
+#  Switching monitor imputs (ASUS monitor first)
+###############################################################################
+function tolaptop (){
+#going to laptop via barrier
+#sudo ddcutil setvcp --bus 2 60 0x01 # AOC
+sudo ddcutil setvcp --bus 2 60 0x11 # ASUS
+#sudo ddcutil setvcp --bus 7 60 0x11 # ASUS
+}
+
+function topc (){
+#going back to pc after moving mouse to barrier
+#sudo ddcutil setvcp --bus 2 60 0x03 # AOC
+sudo ddcutil setvcp --bus 2 60 0x0f # ASUS (when in vfio setup)
+#sudo ddcutil setvcp --bus 7 60 0x0f # ASUS (no vfio)
+}
+###############################################################################
+#  Switching monitor imputs (AOC monitor first)
+###############################################################################
+
+function tolaptopaoc (){
+#going to laptop via barrier
+sudo ddcutil setvcp --bus 3 60 0x11 # ASUS
+}
+function topcaoc (){
+sudo ddcutil setvcp --bus 3 60 0x03 # AOC
+}
+
+function towindows(){
+#[[ $(sudo virsh list --all | grep 2 | awk {'print $3'}) == "running" ]] && sudo ddcutil setvcp --bus 2 60 0x11  ||  notify-send "VM paused.. consider starting it" #AOC
+[[ $(sudo virsh list --all | grep 2 | awk {'print $3'}) == "running" ]] && sudo ddcutil setvcp --bus 2 60 0x03  ||  notify-send "VM paused.. consider starting it" #ASUS
+}
+
+#flips 3rd monitor orientation
+function fliporientationleft(){
+	[[ $(xrandr | grep DP-7 | awk {'print $4'}) == "left" ]] && xrandr --output DP-7 --rotate normal || xrandr --output DP-7 --rotate left
+}
+
+
+function fliporientationright(){
+	[[ $(xrandr | grep DP-2 | awk {'print $4'}) == "left" ]] && xrandr --output DP-2 --rotate normal || xrandr --output DP-2 --rotate left
+}
+
+"$@"

@@ -1,0 +1,52 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Turnover - Good Nature (2017) FLAC/Turnover - Good Nature - 07 Nightlight Girl.flac
+1:Standing On The Corner/Red Burns/Standing On The Corner - RED BURNS - 01 Side X.mp3
+2:Standing On The Corner/Red Burns/Standing On The Corner - RED BURNS - 02 Side Y.mp3
+3:2018/september/Buzzy Lee - Coolhand-oBj4HWIdMpQ.m4a
+4:2018/september/Captain Scott - I'm Telling You-cgyQJexApwI.m4a
+5:2018/september/Christian Besa Wright - Window-ugonN9tB9Y0.opus
+6:2018/september/Hala - More Than Anything-8EKaxHzmieE.opus
+7:2018/september/Math + Rap = Mathap Math-hop Introducing - Catbamboo-F81-7D91Ylk.opus
+8:2018/september/nate b. - come to the crib u know where i live-VQALPqGR2ag.m4a
+9:2018/november/Best VGM 1050 - Kirby's Return to Dreamland - Aurora Area (Windy Waffles)-zB-n8fx-Dig.opus
+10:2018/december/'Tangled Up With You'-iN0f6VYesmk.opus
+11:2018/december/Wordclock - St  George-8kKA545vKVk.opus
+12:2019/December/Penpal - 'Times and Dates'-QZXfBLp7F8s.opus
+13:2019/December/Astor Piazzolla Le Grand Tango (Viola)-0z2hACTAcUU.opus
+14:2019/January/Hung up on my baby.opus
+15:2019/March/Change your Mind.opus
+16:2019/March/It Gets Funkier but every time it gets funkier, it gets funkier.opus
+17:2019/March/Ignore the Glitches.opus
+18:2019/March/Funkaholic.opus
+19:2019/March/Mirror - On, Then, In (2007) - Full Album-IXZxrlvXWP4.opus
+20:2019/March/Osvaldo - Fly Like Birds-4YyA7YDybvE.m4a
+21:2019/March/Preludium and Allegro.opus
+22:2019/March/Take U To KFC.opus
+23:2019/March/Turquoise Hexagon Sun.m4a
+24:2020/June/E.S.T. Esbjorn Svensson Trio - Jazzwoche Burghausen 2004-XhdlVXxp1nw.opus
+25:2020/Nov/fable and chill-Dgxcij40me4.opus
+26:2020/Nov/Bravely Second- End Layer OST - Battle Of Providence [HQ]-251303153.mp3
+27:2020/Nov/Fire Emblem Main Theme (Fire Emblem  Shadow Dragons and the Blade of Light)-38149933.mp3
+28:2020/Nov/Fable 1, 2 and 3's Most Peaceful and Calm Songs (Albions Greatest Hit's)-9_9_HxGl844.opus
+29:2020/April/Carpenter Brut - Trilogy.ogg
+30:2020/April/Final Fantasy VII ~ Fighting Metal Remix ♫-Lszli4Wtiig.opus
+31:2021/3March/Life Force Radio Observatory #25 With Inna-164985466.mp3
+32:2021/3March/The Best Of Latin Lounge Jazz, Bossa Nova, Samba And Smooth Jazz Beat - 20 Greatest Hits-257421013.mp3
+33:2021/3March/Pedestrian - Airs & Graces-277953141.mp3
+34:2021/3March/Paume - Follies-147199954.mp3
+35:2021/3March/Mario & Chill ~ Rainbow Road-623660568.mp3
+36:2021/3March/Hollow Grove Feat. Nubiya Brandon-115743135.mp3
+37:2021/1January/Soul Phlegm - Izzy Real-231381908.mp3
+38:2021/5may/Cecilia's Fruit-86225361.mp3
+playlist_end

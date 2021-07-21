@@ -1,0 +1,124 @@
+#!/bin/bash
+#09.10.19jb
+
+#set -x
+
+# ---- {initial connect
+	echo "Which server would you like to open up a VNC session to?"
+	read destinationServer
+
+function exportPort() {
+		ssh $USER@$destinationServer  'vncserver -list  ' | sed 1,4d | awk {'print $1'} |sed 's/://g'  > /tmp/port#$destinationServer
+}
+function check_serverlist()  { 
+		filempty=$(ls -l /tmp/port#$destinationServer | awk {'print $5'})
+	}
+function connect_servers()   {
+		for i in $(cat /tmp/port#$destinationServer); do 
+			nohup xterm -e "ssh -L 590$i:localhost:590$i $destinationServer" &>/dev/null &
+			sleep 1;
+			vncviewer localhost:$i &
+		done
+	}
+function create_session () { 
+	printf 'Choose a session geometry: \n 1: 2550x2850 (Double Horizontal) \n 2: 2550x1410 (Single Horizontal) \n 3: 1430x2530 (Single Vertical) \n'
+	read size
+	case $size in 
+		"1") 
+#			ssh $destinationServer 'vncserver';
+			ssh $destinationServer 'vncserver -geometry 2550x2850';
+		;; 
+		"2")
+			ssh $destinationServer 'vncserver -geometry 2550x1410';
+		;;
+		"3")
+			ssh $destinationServer 'vncserver -geometry 1430x2530';
+		;;
+	esac
+
+			exportPort
+}
+function read_back () { 
+		    exportPort
+		    cat /tmp/port#$destinationServer
+}
+
+#       ----{ Main
+# 	      grabs sessions (if any) & lists, returns just integer socket value. outputs to memory file to verify 
+		exportPort
+		check_serverlist 
+		printf 'Choose an option:\n 1 for connect,\n 2 for create,\n 3 for session list \n'
+		read option 
+
+# Connect to pre-existing connections
+
+	case $option in 
+		"1")
+			if [ "$filempty" -gt "0" ]; then
+				read_back;	
+				printf 'Connect to which session? a for all,' 
+				read whichSessionuWant
+					case $whichSessionuWant in 
+				"a") 
+					connect_servers;
+				;;
+				
+				"b")
+
+				connect_servers;
+				;;
+esac
+				else echo " run script again and select create new session"
+			fi
+		;;
+
+# Create New Session 
+		"2") 
+		
+			if [ "$filempty" -gt "0" ];
+			then	
+				echo "the following sessions are already open:" &&  for i in $(cat /tmp/port#$destinationServer); do echo "$i";
+				done 
+				echo " would you like to create more? y for yes "
+				read createNew;
+					if [ "$createNew" == "y" ]; then
+					create_session;
+					exportPort;
+					echo "would you like to connect? y for yes";
+					read connectAfter;
+						if [ "$connectAfter" == "y" ]; then
+						exportPort;
+						check_serverlist;
+						sleep 0.1;
+						echo "the following sessions are now open:" && cat /tmp/port#$destinationServer;
+						connect_servers;
+						else echo "Rerun the script for anything else, or drop me an email for questions :) ";
+						fi
+					fi
+			
+			else echo "There are currently no open VNCserver sessions on $destinationServer, would you like to make one? 'y' for yes"; read createNew; 
+				if [ "$createNew" == "y" ]; then 
+				create_session;
+				exportPort;
+			echo "would you like to connect? y for yes";
+			read connectAfter;
+					if [ "$connectAfter" == "y" ]; then 
+						exportPort;
+						check_serverlist;
+						connect_servers; 
+						else echo "Rerun the script for anything else, or drop me an email for questions :) ";
+					fi 
+				fi
+			fi
+		;;
+
+	       "3")
+		    read_back
+		;; 
+
+	esac
+
+
+	
+
+

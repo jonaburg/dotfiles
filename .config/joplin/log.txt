@@ -1,0 +1,84 @@
+2021-07-21 13:15:01: App: "Profile directory: /home/jon/.config/joplin"
+2021-07-21 13:15:01: "Database was open successfully"
+2021-07-21 13:15:01: "Checking for database schema update..."
+2021-07-21 13:15:01: "Current database version", "{"version":34,"table_fields_version":34}"
+2021-07-21 13:15:01: "Upgrading database from version 34"
+2021-07-21 13:15:01: "New version: 34. Previously recorded version: 34"
+2021-07-21 13:15:01: "KeychainService: checking if keychain supported"
+2021-07-21 13:15:01: "KeychainService: check was already done - skipping. Supported:", "0"
+2021-07-21 13:15:01: App: "Client ID: 07ec2a29459c419888827e4806cc61a9"
+2021-07-21 13:15:01: "Trying to load 0 master keys..."
+2021-07-21 13:15:01: "Loaded master keys: 0"
+2021-07-21 13:15:01: "ResourceFetcher: Auto-add resources: Mode: always"
+2021-07-21 13:15:01: "ResourceFetcher: Auto-added resources: 0"
+2021-07-21 13:15:01: "Saving updated Dropbox auth."
+2021-07-21 13:15:02: "Sync target info:", "{"version":2}"
+2021-07-21 13:15:11: "SearchEngine: Updating FTS table..."
+2021-07-21 13:15:11: "SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0"
+2021-07-21 13:15:25: "Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+Code: path/not_found/
+Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+    at newError (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:178:20)
+    at DropboxApi.exec (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:191:12)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async FileApiDriverDropbox.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api-driver-dropbox.js:101:18)
+    at async tryAndRepeat (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:40:19)
+    at async FileApi.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:204:18)"
+2021-07-21 13:15:25: "Operations completed: "
+2021-07-21 13:15:25: "Total folders: 17"
+2021-07-21 13:15:25: "Total notes: 92"
+2021-07-21 13:15:25: "Total resources: 3"
+2021-07-21 13:15:25: "There was some errors:"
+2021-07-21 13:15:25: "Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+Code: path/not_found/
+Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+    at newError (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:178:20)
+    at DropboxApi.exec (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:191:12)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async FileApiDriverDropbox.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api-driver-dropbox.js:101:18)
+    at async tryAndRepeat (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:40:19)
+    at async FileApi.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:204:18)"
+2021-07-21 13:15:25: "ResourceFetcher: Auto-add resources: Mode: always"
+2021-07-21 13:15:25: "ResourceFetcher: Auto-added resources: 0"
+2021-07-21 13:20:01: App: "Profile directory: /home/jon/.config/joplin"
+2021-07-21 13:20:01: "Database was open successfully"
+2021-07-21 13:20:01: "Checking for database schema update..."
+2021-07-21 13:20:01: "Current database version", "{"version":34,"table_fields_version":34}"
+2021-07-21 13:20:01: "Upgrading database from version 34"
+2021-07-21 13:20:01: "New version: 34. Previously recorded version: 34"
+2021-07-21 13:20:01: "KeychainService: checking if keychain supported"
+2021-07-21 13:20:01: "KeychainService: check was already done - skipping. Supported:", "0"
+2021-07-21 13:20:01: App: "Client ID: 07ec2a29459c419888827e4806cc61a9"
+2021-07-21 13:20:01: "Trying to load 0 master keys..."
+2021-07-21 13:20:01: "Loaded master keys: 0"
+2021-07-21 13:20:01: "ResourceFetcher: Auto-add resources: Mode: always"
+2021-07-21 13:20:01: "ResourceFetcher: Auto-added resources: 0"
+2021-07-21 13:20:01: "Saving updated Dropbox auth."
+2021-07-21 13:20:02: "Sync target info:", "{"version":2}"
+2021-07-21 13:20:11: "SearchEngine: Updating FTS table..."
+2021-07-21 13:20:12: "SearchEngine: Updated FTS table in 2ms. Inserted: 0. Deleted: 0"
+2021-07-21 13:20:25: "Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+Code: path/not_found/
+Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+    at newError (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:178:20)
+    at DropboxApi.exec (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:191:12)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async FileApiDriverDropbox.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api-driver-dropbox.js:101:18)
+    at async tryAndRepeat (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:40:19)
+    at async FileApi.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:204:18)"
+2021-07-21 13:20:25: "Operations completed: "
+2021-07-21 13:20:25: "Total folders: 17"
+2021-07-21 13:20:25: "Total notes: 92"
+2021-07-21 13:20:25: "Total resources: 3"
+2021-07-21 13:20:25: "There was some errors:"
+2021-07-21 13:20:25: "Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+Code: path/not_found/
+Error: POST files/list_folder: Error (409): {"error_summary": "path/not_found/", "error": {".tag": "path", "path": {".tag": "not_found"}}}
+    at newError (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:178:20)
+    at DropboxApi.exec (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/DropboxApi.js:191:12)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async FileApiDriverDropbox.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api-driver-dropbox.js:101:18)
+    at async tryAndRepeat (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:40:19)
+    at async FileApi.list (/home/jon/.joplin-bin/lib/node_modules/joplin/node_modules/@joplin/lib/file-api.js:204:18)"
+2021-07-21 13:20:25: "ResourceFetcher: Auto-add resources: Mode: always"
+2021-07-21 13:20:25: "ResourceFetcher: Auto-added resources: 0"

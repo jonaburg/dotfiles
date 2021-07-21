@@ -1,0 +1,215 @@
+# Basic binds
+
+super + Escape
+	skippy-xd --toggle
+#super + b
+#	skippy-xd --toggle
+
+super + Return
+	st
+
+super + shift + Return
+	st -e tmux attach || st -e tmux
+
+super + d
+#	dmenu_run
+#rofi -show run
+	rofi -show run -config ~/.config/rofi/themes/default.rasi
+super + r
+#	$TERMINAL -e $FILE
+	st -e ~/.local/bin/utilities/lf
+#super + e
+#	st -e neomutt
+#super + m
+#	st -e ncmpcpp
+super + n
+#$TERMINAL -e newsboat
+	st -e newsboat
+super + shift + i
+	st -e htop
+super + shift + y
+	st -e calcurse
+super + shift + l
+	st -e ~/.local/bin/utilities//lf
+super +  a
+	st -e qalc
+super + shift + a
+	st -e pulsemixer; pkill -RTMIN+10 i3blocks
+#super + shift + c
+#	camtoggle
+super + shift + e
+	rofi -show ssh -config ~/.config/rofi/themes/ssh.rasi
+super + w
+	wiby.sh
+#super +  c
+#	quicklinks.sh
+super + shift + g
+	rofi -show window -config ~/.config/rofi/themes/wiby.rasi
+
+#super + shift + j
+#	joplin-desktop
+
+super + t
+	~/.local/bin/utilities/translate
+# Et cetera...
+
+
+
+super + grave
+	~/.local/bin/utilities/xrescolo
+super + shift +  grave
+	dmenuunicode
+super + Scroll_Lock
+	killall screenkey || screenkey
+super + Insert
+	showclip
+super + shift + x
+	prompt "Shutdown computer?" "sudo -A shutdown -h now"
+super + shift + BackSpace
+	prompt "Reboot computer?" "sudo -A shutdown -r now"
+super + x
+#	mpc pause; pauseallmpv; i3lock -e -f -c 1d2021; xset dpms force off
+XF86Launch1
+	xset dpms force off
+#XF86AudioMute
+#	lmc mute
+#XF86AudioLowerVolume
+#	lmc down 5
+#shift+XF86AudioLowerVolume
+#	lmc down 10
+#control+XF86AudioLowerVolume
+#	lmc down 1
+#XF86AudioRaiseVolume
+#	lmc up 5
+#shift+XF86AudioRaiseVolume
+#	lmc up 10
+#control+XF86AudioRaiseVolume
+#	lmc up 1
+#XF86AudioNext
+#	lmc next
+#XF86AudioPlay
+#	lmc toggle
+#XF86AudioPrev
+#	lmc prev
+#XF86AudioStop
+#	lmc toggle
+#XF86MonBrightnessDown
+#	xbacklight -dec 15
+#XF86MonBrightnessUp
+#	xbacklight -inc 15
+
+
+# Recording
+# Take screenshot
+Print
+	maim pic-full-$(date '+%y%m%d-%H%M-%S').png
+# Pick screenshot type
+shift + Print
+	import png:- | xclip -selection clipboard -t image/png
+# Record audio or video
+super + Print
+	dmenurecord
+# kill active recording
+super + Delete
+	dmenurecord kill
+
+# Pause audio
+super + {_,shift +} p
+	~/.local/bin/tools/lmc {toggle,pause}
+# Changes to next/previous tracks
+super + {comma,period}
+	~/.local/bin/tools/lmc {prev,next}
+# Restart track
+super + shift + less
+	~/.local/bin/tools/lmc replay
+# Increase volume
+#super + {equal,plus}
+#	~/.local/bin/tools/lmc up {5,15}
+# Decrease volume
+#super {_,shift +} + minus
+#	~/.local/bin/tools/lmc down {5,15}
+# Seek foward in song
+#super + squarebracketright
+	lmc forward {10,120}
+
+super +  bracketright
+	~/.config/awesome/scripts/shifter colder
+
+super + {_,shift +} bracketright
+	~/.config/awesome/scripts/shifter brighter
+#lmc forward {10,120}
+
+# Seek backward in song
+#super + {_,shift +} bracketleft
+#	lmc back {10,120}
+super +  bracketleft
+	~/.config/awesome/scripts/shifter warmer
+super + {_,shift +} bracketleft
+	~/.config/awesome/scripts/shifter darker
+#	lmc back {10,120}
+
+alt + F1
+	~/.local/bin/utilities/wfh fliporientationleft
+alt + F2
+	~/.local/bin/utilities/wfh fliporientationright
+
+# Function keys
+#send I/O to windows VM
+super + F1
+	~/.local/bin/utilities/vminputs
+super + shift + F1
+	~/.VFIOinput/input_attach full
+
+
+# F2 is restart in i3 right now.
+# Change display
+super + F2
+	~/.local/bin/utilities/wfh towindows
+super + F3
+	~/.local/bin/utilities/wfh tolaptop
+super + shift + F3
+	~/.local/bin/utilities/wfh tolaptopaoc
+# Hibernate
+super + F4
+	~/.local/bin/utilities/wfh topc
+super + shift + F4
+	~/.local/bin/utilities/wfh topcaoc
+# Restart/rescan wifi/eth networks
+super + F5
+#	sudo -A systemctl restart NetworkManager
+
+# Start torrent daemon/open interface
+super + F6
+	torwrap
+# toggle torrent daemon
+super + F7
+	transset-df -a --dec 0.15
+
+super + shift + F7
+	transset-df -a --inc 0.15
+# sync email
+super + F8
+	mailsync
+
+# sync skippy-xd
+F8
+#	skippy-xd --toggle
+	~/.local/bin/statusbar/timer
+
+# Mount a USB drive or Android device
+super + F9
+	dmenumount
+# Unmount a USB drive or Android device
+super + F10
+	dmenuumount
+# Search with mpsytviewer
+super + F11
+	~/.local/bin/utilities/quicklinks.sh
+F11
+	~/.local/bin/utilities/mpsytviewer
+# display Manager interface
+super + F12
+	~/.local/bin/utilities/wiby.sh
+#F12
+#	duckask.sh
+
