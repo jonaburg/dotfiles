@@ -48,9 +48,9 @@
 
 
 !*.alpha: 0.1
-*.alpha: 0.6
+!*.alpha: 0.6
 !*.alpha: 0.7
-!*.alpha:0.9
+*.alpha:0.9
 !*.alpha: 0.85
 !*.alpha: 1
 

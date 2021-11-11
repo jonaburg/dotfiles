@@ -146,7 +146,8 @@ map bs38 newbgs38
 map bs39 newbgs39
 
 cmd oldbg ${{
-cp $f ~/.config/wall.png && feh --bg-scale $f
+#cp $f ~/.config/wall.png && feh --bg-scale $f
+cp $f ~/.config/wall.png && feh --bg-fill $f
 }}
 
 # changes screen 1 bg

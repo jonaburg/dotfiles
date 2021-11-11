@@ -14,7 +14,9 @@ unclutter &		# Remove mouse when idle
 #/home/jon/Work/Compositing/test/picom/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
 #/home/jon/Work/Compositing/test/picom/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
 ## dcillag's picom
-/home/jon/Work/Compositing/dcillag/build/src/picom --config ~/.config/picom.conf --experimental-backend &		# xcompmgr for transparency
+#/home/jon/Work/Compositing/dcillag/build/src/picom --config ~/.config/picom.conf --experimental-backend &
+## dcillag's picom
+/home/jon/Work/Compositing/pijulius/build/src/picom --config ~/.config/picom.conf --animation-for-open-window"zoom" &
 #picom --experimental-backend &
 dunst &			# dunst for notifications
 mpdupdate &

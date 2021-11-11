@@ -1,4 +1,5 @@
 0-59/5 * * * * /home/jon/.local/bin/cron/mailboxsync
 0-59/5 * * * * /sbin/joplin sync
+0-59/5 * * * * /home/jon/.local/bin/cron/synccal
 0 */12 * * * /home/jon/.local/bin/utilities/backup fullsync
 0 */4 * * * /home/jon/.local/bin/cron/physioremind

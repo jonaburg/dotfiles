@@ -11,7 +11,7 @@ echo "This backup corresponds to:" $(date) > ~/.local/backups/README.md
 
 
 rsync -av ~/.config/dunst ~/.local/backups/.config/
-rsync -av ~/.config/joplin ~/.local/backups/.config/
+#rsync -av ~/.config/joplin ~/.local/backups/.config/
 rsync -av ~/.config/fontconfig ~/.local/backups/.config/
 rsync -av ~/.config/lf ~/.local/backups/.config/
 rsync -av ~/.config/ncmpcpp ~/.local/backups/.config/

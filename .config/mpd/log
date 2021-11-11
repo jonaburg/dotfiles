@@ -1714,3 +1714,13 @@ May 21 14:06 : avahi: Service 'Music Player @ lambda' successfully established.
 May 21 14:06 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
 May 21 14:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
 May 21 14:14 : player: played "2021/5may/13 Angels Standing Guard 'Round The Side Of Your Bed-310995372.mp3"
+Jul 28 11:01 : avahi: Service 'Music Player @ lambda' successfully established.
+Jul 28 11:01 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jul 28 11:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jul 28 11:07 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jul 28 11:17 : player: played "2020/June/Tarrey Town - The Legend of Zelda - Breath of the Wild Soundtrack-SqhZbK6RI8g.opus"
+Jul 28 11:18 : exception: Failed to open /home/jon/.config/mpd/playlists: No such file or directory
+Jul 28 11:23 : player: played "2021/3March/Grenier Meets Archie Pelago - Phosphorent-148328301.mp3"
+Jul 28 11:54 : player: played "2021/3March/Tempo of Time.mp3"
+Aug 13 21:51 : avahi: Service 'Music Player @ lambda' successfully established.
+Aug 13 21:51 : player: played "Arms And Sleepers - 2011 - The Organ Hearts [320] {EXC 010}/01. Kepesh.mp3"

@@ -114,9 +114,16 @@ README.*=33:\
 *.jpg=01;33:\
 *.png=01;33:\
 ln=01;36:\
-di=01;31:\
+di=01;36:\
 ex=01;32:\
 "
+# lfcolor convention
+# 1;31 red
+# 1;31 red
+# 1;31 red
+# 1;31 red
+# 1;31 red
+
 
 #lf icons
 export LF_ICONS="\
@@ -281,6 +288,15 @@ ex=:\
 *.pdf=:\
 *.nix=:\
 "
+
+## Load version control information
+#autoload -Uz vcs_info
+#precmd() { vcs_info }
+## Format the vcs_info_msg_0_ variable
+#zstyle ':vcs_info:git:*' formats 'on branch %b'
+#	# Set up the prompt (with git branch name)
+#	setopt PROMPT_SUBST
+#PROMPT='%n in ${PWD/#$HOME/~} ${vcs_info_msg_0_} > '
 
 
 # Load zsh-syntax-highlighting; should be last.
